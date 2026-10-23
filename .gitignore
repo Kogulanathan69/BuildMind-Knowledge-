@@ -1,2 +1,5 @@
 /knowledge/datasets/01_weather/raw/
 /knowledge/datasets/01_weather/weather_siyambalanduwa_2021_clean.csv
+/knowledge/datasets/02_construction_cost/raw/
+/knowledge/datasets/02_construction_cost/*candidates*.csv
+/knowledge/datasets/02_construction_cost/*review_flags*.csv
