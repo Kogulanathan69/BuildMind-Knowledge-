@@ -23,3 +23,5 @@ See [discussion topics](docs/discussion-record/README.md), [dataset evidence](do
 ## Do not overstate
 
 Source files are not cleaned datasets; clean rows are not locally applicable regulations; a renderer is not a solver; mirrored plans are not independently optimised alternatives; a preliminary estimate is not a professional quotation. Missing attachments and original dataset bytes are not asserted archived by this update.
+
+Git identity verification update.
