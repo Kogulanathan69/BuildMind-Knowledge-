@@ -1,0 +1,68 @@
+{
+  "generated_utc": "2026-10-23T05:59:10.321884+00:00",
+  "data_available_on_github": false,
+  "datasets": [
+    {
+      "dataset_id": "cost_candidate_classified_review_flags",
+      "file_name": "classified_review_flags.csv",
+      "dataset_category": "cost_candidate",
+      "record_count": 96,
+      "column_count": 6,
+      "fields": [
+        "document",
+        "pdf_page",
+        "item_code",
+        "issue",
+        "classification",
+        "detail"
+      ],
+      "sha256": "71a337bc1cb47db8b90e6b3a8a2283d333cac83e68a2aa4771fed83833135e4d",
+      "verification_status": "unverified_candidates",
+      "csv_stored_in_public_github": false,
+      "source_local_relative": "Downloads/BuildMind_Cost_Output/classified_review_flags.csv"
+    },
+    {
+      "dataset_id": "cost_candidate_construction_rate_candidates_review_required",
+      "file_name": "construction_rate_candidates_REVIEW_REQUIRED.csv",
+      "dataset_category": "cost_candidate",
+      "record_count": 5304,
+      "column_count": 12,
+      "fields": [
+        "dataset",
+        "item_code",
+        "description",
+        "unit",
+        "district",
+        "rate_lkr",
+        "rate_year",
+        "rate_period",
+        "source_document",
+        "source_pdf_page",
+        "verification_status",
+        "review_reason"
+      ],
+      "sha256": "1f0d5c767c6d486601b60d92adcfbb9936567000d11b7ba3854dda0d8d9ca521",
+      "verification_status": "unverified_candidates",
+      "csv_stored_in_public_github": false,
+      "source_local_relative": "Downloads/BuildMind_Cost_Output/construction_rate_candidates_REVIEW_REQUIRED.csv"
+    },
+    {
+      "dataset_id": "cost_candidate_extraction_flags",
+      "file_name": "extraction_flags.csv",
+      "dataset_category": "cost_candidate",
+      "record_count": 96,
+      "column_count": 5,
+      "fields": [
+        "document",
+        "pdf_page",
+        "item_code",
+        "issue",
+        "detail"
+      ],
+      "sha256": "6d92bda9ebc7ec226f8318767461edaee30184a7d36e086b7aba92a9c5e889a6",
+      "verification_status": "unverified_candidates",
+      "csv_stored_in_public_github": false,
+      "source_local_relative": "Downloads/BuildMind_Cost_Output/extraction_flags.csv"
+    }
+  ]
+}

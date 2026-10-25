@@ -1,0 +1,21 @@
+﻿{
+    "available_records":  14112,
+    "timezone":  "unconfirmed",
+    "source_data_public":  false,
+    "missing_period":  {
+                           "start":  "2021-10-07T00:00:00",
+                           "end":  "2021-10-30T23:50:00"
+                       },
+    "station_id":  "D205145",
+    "sampling_interval_minutes":  10,
+    "redistribution_permission":  "unverified",
+    "category":  "weather_climate",
+    "suitable_for_rag":  "conditional_after_validation",
+    "dataset_id":  "buildmind-weather-siyambalanduwa-2021",
+    "location":  "Siyambalanduwa, Sri Lanka",
+    "data_status":  "partially_validated",
+    "date_end":  "2021-12-31",
+    "date_start":  "2021-09-01",
+    "missing_records":  3456,
+    "expected_records":  17568
+}

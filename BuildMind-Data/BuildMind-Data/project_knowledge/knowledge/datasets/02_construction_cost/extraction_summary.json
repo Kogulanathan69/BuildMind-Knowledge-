@@ -1,0 +1,42 @@
+{
+  "generated_utc": "2026-10-23T05:42:53.798292+00:00",
+  "warning": "Automated extraction is unverified; do not use these candidates for quotations until manually approved. No raw PDFs uploaded.",
+  "documents": [
+    {
+      "file": "BSR.pdf",
+      "dataset": "northern_building_2026",
+      "sha256": "5fb2ba14aee289bd6a3c69b5fe4c50281bbdc8531fc5557443170209817d626d",
+      "status": "processed",
+      "pages": 83,
+      "tables": 76,
+      "candidate_items": 493,
+      "exported_records": 2310,
+      "review_flags": 0
+    },
+    {
+      "file": "Const_BSR_2020_final-compressed.pdf",
+      "dataset": "government_building_2020",
+      "sha256": "04ea95d49f9df6151fcfc3baa64e31c30cbcbd38cfe50cbfd218438821d82d9b",
+      "status": "processed",
+      "pages": 105,
+      "tables": 85,
+      "candidate_items": 1240,
+      "exported_records": 1239,
+      "review_flags": 0
+    },
+    {
+      "file": "SoR_2026 _Road.pdf",
+      "dataset": "northern_road_2026",
+      "sha256": "7380f6d8e0d8613875f4bc1bb9178c82d71e772383c357eb48d24cb5883f1e24",
+      "status": "processed",
+      "pages": 81,
+      "tables": 74,
+      "candidate_items": 417,
+      "exported_records": 1765,
+      "review_flags": 0
+    }
+  ],
+  "total_candidate_rate_records": 5304,
+  "review_flags": 96,
+  "output_directory": "C:\\Users\\UT011331\\Downloads\\BuildMind_Cost_Output"
+}

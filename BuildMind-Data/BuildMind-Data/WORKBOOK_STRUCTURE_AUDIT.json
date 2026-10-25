@@ -1,0 +1,839 @@
+[
+  {
+    "path": "datasets/00_legacy_combined/BuildMind_AI_Dataset_v1 (1)(1).xlsx",
+    "sheet_names": [
+      "Overview",
+      "Room Rules",
+      "Stairs",
+      "Openings",
+      "Air Wells",
+      "Planning",
+      "Parking",
+      "Local Review",
+      "Inputs",
+      "Gaps",
+      "Missing Schemas",
+      "Test Cases",
+      "Sources",
+      "Candidate Pages",
+      "Data Dictionary",
+      "Test Results",
+      "Audit"
+    ],
+    "row_counts": [
+      {
+        "xml": "xl/worksheets/sheet1.xml",
+        "nonempty_rows": 18
+      },
+      {
+        "xml": "xl/worksheets/sheet2.xml",
+        "nonempty_rows": 29
+      },
+      {
+        "xml": "xl/worksheets/sheet3.xml",
+        "nonempty_rows": 11
+      },
+      {
+        "xml": "xl/worksheets/sheet4.xml",
+        "nonempty_rows": 15
+      },
+      {
+        "xml": "xl/worksheets/sheet5.xml",
+        "nonempty_rows": 28
+      },
+      {
+        "xml": "xl/worksheets/sheet6.xml",
+        "nonempty_rows": 53
+      },
+      {
+        "xml": "xl/worksheets/sheet7.xml",
+        "nonempty_rows": 11
+      },
+      {
+        "xml": "xl/worksheets/sheet8.xml",
+        "nonempty_rows": 8
+      },
+      {
+        "xml": "xl/worksheets/sheet9.xml",
+        "nonempty_rows": 21
+      },
+      {
+        "xml": "xl/worksheets/sheet10.xml",
+        "nonempty_rows": 17
+      },
+      {
+        "xml": "xl/worksheets/sheet11.xml",
+        "nonempty_rows": 9
+      },
+      {
+        "xml": "xl/worksheets/sheet12.xml",
+        "nonempty_rows": 10
+      },
+      {
+        "xml": "xl/worksheets/sheet13.xml",
+        "nonempty_rows": 116
+      },
+      {
+        "xml": "xl/worksheets/sheet14.xml",
+        "nonempty_rows": 752
+      },
+      {
+        "xml": "xl/worksheets/sheet15.xml",
+        "nonempty_rows": 24
+      },
+      {
+        "xml": "xl/worksheets/sheet16.xml",
+        "nonempty_rows": 10
+      },
+      {
+        "xml": "xl/worksheets/sheet17.xml",
+        "nonempty_rows": 6
+      }
+    ],
+    "check": "container_and_xml_readable_only_not_content_verification"
+  },
+  {
+    "path": "datasets/00_legacy_combined/BuildMind_AI_Dataset_v1 (1).xlsx",
+    "sheet_names": [
+      "Overview",
+      "Room Rules",
+      "Stairs",
+      "Openings",
+      "Air Wells",
+      "Planning",
+      "Parking",
+      "Local Review",
+      "Inputs",
+      "Gaps",
+      "Missing Schemas",
+      "Test Cases",
+      "Sources",
+      "Candidate Pages",
+      "Data Dictionary",
+      "Test Results",
+      "Audit"
+    ],
+    "row_counts": [
+      {
+        "xml": "xl/worksheets/sheet1.xml",
+        "nonempty_rows": 18
+      },
+      {
+        "xml": "xl/worksheets/sheet2.xml",
+        "nonempty_rows": 29
+      },
+      {
+        "xml": "xl/worksheets/sheet3.xml",
+        "nonempty_rows": 11
+      },
+      {
+        "xml": "xl/worksheets/sheet4.xml",
+        "nonempty_rows": 15
+      },
+      {
+        "xml": "xl/worksheets/sheet5.xml",
+        "nonempty_rows": 28
+      },
+      {
+        "xml": "xl/worksheets/sheet6.xml",
+        "nonempty_rows": 53
+      },
+      {
+        "xml": "xl/worksheets/sheet7.xml",
+        "nonempty_rows": 11
+      },
+      {
+        "xml": "xl/worksheets/sheet8.xml",
+        "nonempty_rows": 8
+      },
+      {
+        "xml": "xl/worksheets/sheet9.xml",
+        "nonempty_rows": 21
+      },
+      {
+        "xml": "xl/worksheets/sheet10.xml",
+        "nonempty_rows": 17
+      },
+      {
+        "xml": "xl/worksheets/sheet11.xml",
+        "nonempty_rows": 9
+      },
+      {
+        "xml": "xl/worksheets/sheet12.xml",
+        "nonempty_rows": 10
+      },
+      {
+        "xml": "xl/worksheets/sheet13.xml",
+        "nonempty_rows": 116
+      },
+      {
+        "xml": "xl/worksheets/sheet14.xml",
+        "nonempty_rows": 752
+      },
+      {
+        "xml": "xl/worksheets/sheet15.xml",
+        "nonempty_rows": 24
+      },
+      {
+        "xml": "xl/worksheets/sheet16.xml",
+        "nonempty_rows": 10
+      },
+      {
+        "xml": "xl/worksheets/sheet17.xml",
+        "nonempty_rows": 6
+      }
+    ],
+    "check": "container_and_xml_readable_only_not_content_verification"
+  },
+  {
+    "path": "datasets/00_legacy_combined/BuildMind_AI_Dataset_v1.xlsx",
+    "sheet_names": [
+      "Overview",
+      "Room Rules",
+      "Stairs",
+      "Openings",
+      "Air Wells",
+      "Planning",
+      "Parking",
+      "Local Review",
+      "Inputs",
+      "Gaps",
+      "Missing Schemas",
+      "Test Cases",
+      "Sources",
+      "Candidate Pages",
+      "Data Dictionary",
+      "Test Results",
+      "Audit"
+    ],
+    "row_counts": [
+      {
+        "xml": "xl/worksheets/sheet1.xml",
+        "nonempty_rows": 18
+      },
+      {
+        "xml": "xl/worksheets/sheet2.xml",
+        "nonempty_rows": 29
+      },
+      {
+        "xml": "xl/worksheets/sheet3.xml",
+        "nonempty_rows": 11
+      },
+      {
+        "xml": "xl/worksheets/sheet4.xml",
+        "nonempty_rows": 15
+      },
+      {
+        "xml": "xl/worksheets/sheet5.xml",
+        "nonempty_rows": 28
+      },
+      {
+        "xml": "xl/worksheets/sheet6.xml",
+        "nonempty_rows": 53
+      },
+      {
+        "xml": "xl/worksheets/sheet7.xml",
+        "nonempty_rows": 11
+      },
+      {
+        "xml": "xl/worksheets/sheet8.xml",
+        "nonempty_rows": 8
+      },
+      {
+        "xml": "xl/worksheets/sheet9.xml",
+        "nonempty_rows": 21
+      },
+      {
+        "xml": "xl/worksheets/sheet10.xml",
+        "nonempty_rows": 17
+      },
+      {
+        "xml": "xl/worksheets/sheet11.xml",
+        "nonempty_rows": 9
+      },
+      {
+        "xml": "xl/worksheets/sheet12.xml",
+        "nonempty_rows": 10
+      },
+      {
+        "xml": "xl/worksheets/sheet13.xml",
+        "nonempty_rows": 116
+      },
+      {
+        "xml": "xl/worksheets/sheet14.xml",
+        "nonempty_rows": 752
+      },
+      {
+        "xml": "xl/worksheets/sheet15.xml",
+        "nonempty_rows": 24
+      },
+      {
+        "xml": "xl/worksheets/sheet16.xml",
+        "nonempty_rows": 10
+      },
+      {
+        "xml": "xl/worksheets/sheet17.xml",
+        "nonempty_rows": 6
+      }
+    ],
+    "check": "container_and_xml_readable_only_not_content_verification"
+  },
+  {
+    "path": "datasets/07_templates/recovered_versions/BuildMind_Architecture.xlsx",
+    "sheet_names": [
+      "BuildMind Dataset"
+    ],
+    "row_counts": [
+      {
+        "xml": "xl/worksheets/sheet1.xml",
+        "nonempty_rows": 8
+      }
+    ],
+    "check": "container_and_xml_readable_only_not_content_verification"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Final_4_Paper_Research_Dataset.xlsx",
+    "sheet_names": [
+      "Source_Register",
+      "Room_Dimensions",
+      "Zone_Configurations",
+      "Design_Findings",
+      "Legal_Separation",
+      "Research_Gaps",
+      "README"
+    ],
+    "row_counts": [
+      {
+        "xml": "xl/worksheets/sheet1.xml",
+        "nonempty_rows": 5
+      },
+      {
+        "xml": "xl/worksheets/sheet2.xml",
+        "nonempty_rows": 5
+      },
+      {
+        "xml": "xl/worksheets/sheet3.xml",
+        "nonempty_rows": 22
+      },
+      {
+        "xml": "xl/worksheets/sheet4.xml",
+        "nonempty_rows": 15
+      },
+      {
+        "xml": "xl/worksheets/sheet5.xml",
+        "nonempty_rows": 5
+      },
+      {
+        "xml": "xl/worksheets/sheet6.xml",
+        "nonempty_rows": 7
+      },
+      {
+        "xml": "xl/worksheets/sheet7.xml",
+        "nonempty_rows": 11
+      }
+    ],
+    "check": "container_and_xml_readable_only_not_content_verification"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Gazette_Verified_Dataset.xlsx",
+    "sheet_names": [
+      "Verified_2021_Rules",
+      "AI_Validation_Examples",
+      "Read_Me"
+    ],
+    "row_counts": [
+      {
+        "xml": "xl/worksheets/sheet1.xml",
+        "nonempty_rows": 58
+      },
+      {
+        "xml": "xl/worksheets/sheet2.xml",
+        "nonempty_rows": 4
+      },
+      {
+        "xml": "xl/worksheets/sheet3.xml",
+        "nonempty_rows": 9
+      }
+    ],
+    "check": "container_and_xml_readable_only_not_content_verification"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Research_Starter.xlsx",
+    "sheet_names": [
+      "UDA_Minimums",
+      "Research_Backlog",
+      "Sources",
+      "README"
+    ],
+    "row_counts": [
+      {
+        "xml": "xl/worksheets/sheet1.xml",
+        "nonempty_rows": 9
+      },
+      {
+        "xml": "xl/worksheets/sheet2.xml",
+        "nonempty_rows": 19
+      },
+      {
+        "xml": "xl/worksheets/sheet3.xml",
+        "nonempty_rows": 4
+      },
+      {
+        "xml": "xl/worksheets/sheet4.xml",
+        "nonempty_rows": 9
+      }
+    ],
+    "check": "container_and_xml_readable_only_not_content_verification"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Sri_Lanka_Room_Standards_Extract.xlsx",
+    "sheet_names": [
+      "SL_Verified_Extract",
+      "README",
+      "Research_Gaps"
+    ],
+    "row_counts": [
+      {
+        "xml": "xl/worksheets/sheet1.xml",
+        "nonempty_rows": 39
+      },
+      {
+        "xml": "xl/worksheets/sheet2.xml",
+        "nonempty_rows": 12
+      },
+      {
+        "xml": "xl/worksheets/sheet3.xml",
+        "nonempty_rows": 8
+      }
+    ],
+    "check": "container_and_xml_readable_only_not_content_verification"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Sri_Lanka_Room_Standards_Stage2.xlsx",
+    "sheet_names": [
+      "SL_Verified_Extract",
+      "README",
+      "Research_Gaps",
+      "Lighting_Ventilation",
+      "AI_Validation_Examples"
+    ],
+    "row_counts": [
+      {
+        "xml": "xl/worksheets/sheet1.xml",
+        "nonempty_rows": 39
+      },
+      {
+        "xml": "xl/worksheets/sheet2.xml",
+        "nonempty_rows": 12
+      },
+      {
+        "xml": "xl/worksheets/sheet3.xml",
+        "nonempty_rows": 8
+      },
+      {
+        "xml": "xl/worksheets/sheet4.xml",
+        "nonempty_rows": 34
+      },
+      {
+        "xml": "xl/worksheets/sheet5.xml",
+        "nonempty_rows": 4
+      }
+    ],
+    "check": "container_and_xml_readable_only_not_content_verification"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Stage3_Concept_Layout_Validation.xlsx",
+    "sheet_names": [
+      "Concept_Room_Sizes",
+      "Furniture_Placeholders",
+      "AI_Validation_Rules",
+      "Concept_Calculator",
+      "README"
+    ],
+    "row_counts": [
+      {
+        "xml": "xl/worksheets/sheet1.xml",
+        "nonempty_rows": 9
+      },
+      {
+        "xml": "xl/worksheets/sheet2.xml",
+        "nonempty_rows": 7
+      },
+      {
+        "xml": "xl/worksheets/sheet3.xml",
+        "nonempty_rows": 8
+      },
+      {
+        "xml": "xl/worksheets/sheet4.xml",
+        "nonempty_rows": 4
+      },
+      {
+        "xml": "xl/worksheets/sheet5.xml",
+        "nonempty_rows": 8
+      }
+    ],
+    "check": "container_and_xml_readable_only_not_content_verification"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Stage4_Verified_Research.xlsx",
+    "sheet_names": [
+      "Verified_Reference_Rules",
+      "Design_Research_Backlog",
+      "AI_Validation_Test_Cases",
+      "README_Sources"
+    ],
+    "row_counts": [
+      {
+        "xml": "xl/worksheets/sheet1.xml",
+        "nonempty_rows": 22
+      },
+      {
+        "xml": "xl/worksheets/sheet2.xml",
+        "nonempty_rows": 9
+      },
+      {
+        "xml": "xl/worksheets/sheet3.xml",
+        "nonempty_rows": 7
+      },
+      {
+        "xml": "xl/worksheets/sheet4.xml",
+        "nonempty_rows": 10
+      }
+    ],
+    "check": "container_and_xml_readable_only_not_content_verification"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Stage5_Sri_Lanka_Compliance_Research.xlsx",
+    "sheet_names": [
+      "Source_Register",
+      "Rule_Verification",
+      "Jurisdiction_Check",
+      "AI_Rule_Schema",
+      "Validation_Examples",
+      "Open_Research_Tasks",
+      "README"
+    ],
+    "row_counts": [
+      {
+        "xml": "xl/worksheets/sheet1.xml",
+        "nonempty_rows": 5
+      },
+      {
+        "xml": "xl/worksheets/sheet2.xml",
+        "nonempty_rows": 11
+      },
+      {
+        "xml": "xl/worksheets/sheet3.xml",
+        "nonempty_rows": 8
+      },
+      {
+        "xml": "xl/worksheets/sheet4.xml",
+        "nonempty_rows": 14
+      },
+      {
+        "xml": "xl/worksheets/sheet5.xml",
+        "nonempty_rows": 4
+      },
+      {
+        "xml": "xl/worksheets/sheet6.xml",
+        "nonempty_rows": 9
+      },
+      {
+        "xml": "xl/worksheets/sheet7.xml",
+        "nonempty_rows": 6
+      }
+    ],
+    "check": "container_and_xml_readable_only_not_content_verification"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Stage6_Gazette_Verification_Audit.xlsx",
+    "sheet_names": [
+      "Rule_Audit",
+      "Source_Evidence",
+      "Legal_Gates",
+      "Engine_Decisions",
+      "Next_Actions",
+      "README"
+    ],
+    "row_counts": [
+      {
+        "xml": "xl/worksheets/sheet1.xml",
+        "nonempty_rows": 11
+      },
+      {
+        "xml": "xl/worksheets/sheet2.xml",
+        "nonempty_rows": 6
+      },
+      {
+        "xml": "xl/worksheets/sheet3.xml",
+        "nonempty_rows": 7
+      },
+      {
+        "xml": "xl/worksheets/sheet4.xml",
+        "nonempty_rows": 4
+      },
+      {
+        "xml": "xl/worksheets/sheet5.xml",
+        "nonempty_rows": 6
+      },
+      {
+        "xml": "xl/worksheets/sheet6.xml",
+        "nonempty_rows": 7
+      }
+    ],
+    "check": "container_and_xml_readable_only_not_content_verification"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Stage9_Gazette_Text_Verified.xlsx",
+    "sheet_names": [
+      "Room_Legal_Source",
+      "Stairs_Legal_Source",
+      "Room_Heights",
+      "Research_Gaps",
+      "Source_Register",
+      "README"
+    ],
+    "row_counts": [
+      {
+        "xml": "xl/worksheets/sheet1.xml",
+        "nonempty_rows": 9
+      },
+      {
+        "xml": "xl/worksheets/sheet2.xml",
+        "nonempty_rows": 9
+      },
+      {
+        "xml": "xl/worksheets/sheet3.xml",
+        "nonempty_rows": 3
+      },
+      {
+        "xml": "xl/worksheets/sheet4.xml",
+        "nonempty_rows": 6
+      },
+      {
+        "xml": "xl/worksheets/sheet5.xml",
+        "nonempty_rows": 2
+      },
+      {
+        "xml": "xl/worksheets/sheet6.xml",
+        "nonempty_rows": 6
+      }
+    ],
+    "check": "container_and_xml_readable_only_not_content_verification"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_NBRO_Reference_Plan_Extraction_v1.xlsx",
+    "sheet_names": [
+      "Drawing_Register",
+      "Room_Extraction",
+      "Opening_Samples",
+      "Data_Rules"
+    ],
+    "row_counts": [
+      {
+        "xml": "xl/worksheets/sheet1.xml",
+        "nonempty_rows": 15
+      },
+      {
+        "xml": "xl/worksheets/sheet2.xml",
+        "nonempty_rows": 61
+      },
+      {
+        "xml": "xl/worksheets/sheet3.xml",
+        "nonempty_rows": 15
+      },
+      {
+        "xml": "xl/worksheets/sheet4.xml",
+        "nonempty_rows": 10
+      }
+    ],
+    "check": "container_and_xml_readable_only_not_content_verification"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Stage8_2_Updated_Room_Dimensions.xlsx",
+    "sheet_names": [
+      "Plan_Register",
+      "Room_Extracts",
+      "Review_Queue",
+      "Data_Rules"
+    ],
+    "row_counts": [
+      {
+        "xml": "xl/worksheets/sheet1.xml",
+        "nonempty_rows": 10
+      },
+      {
+        "xml": "xl/worksheets/sheet2.xml",
+        "nonempty_rows": 34
+      },
+      {
+        "xml": "xl/worksheets/sheet3.xml",
+        "nonempty_rows": 10
+      },
+      {
+        "xml": "xl/worksheets/sheet4.xml",
+        "nonempty_rows": 13
+      }
+    ],
+    "check": "container_and_xml_readable_only_not_content_verification"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Stage8_Sri_Lankan_Floor_Plans_Initial_Extraction.xlsx",
+    "sheet_names": [
+      "Plan_Register",
+      "Room_Extracts",
+      "Review_Queue",
+      "Data_Rules"
+    ],
+    "row_counts": [
+      {
+        "xml": "xl/worksheets/sheet1.xml",
+        "nonempty_rows": 10
+      },
+      {
+        "xml": "xl/worksheets/sheet2.xml",
+        "nonempty_rows": 25
+      },
+      {
+        "xml": "xl/worksheets/sheet3.xml",
+        "nonempty_rows": 10
+      },
+      {
+        "xml": "xl/worksheets/sheet4.xml",
+        "nonempty_rows": 11
+      }
+    ],
+    "check": "container_and_xml_readable_only_not_content_verification"
+  },
+  {
+    "path": "datasets/04_room_adjacency/recovered_versions/BuildMind_AI_Room_Adjacency_Knowledgebase.xlsx",
+    "sheet_names": [
+      "START_HERE",
+      "SOURCE_REGISTER",
+      "ROOM_ONTOLOGY",
+      "ADJACENCY_RULES",
+      "CONSTRAINTS",
+      "TEST_CASES",
+      "AGENT_PIPELINE",
+      "EVALUATION",
+      "DATA_SPLITS",
+      "JSON_SCHEMA",
+      "AGENT_SAMPLE",
+      "PRIORITY_GUIDE"
+    ],
+    "row_counts": [
+      {
+        "xml": "xl/worksheets/sheet1.xml",
+        "nonempty_rows": 13
+      },
+      {
+        "xml": "xl/worksheets/sheet2.xml",
+        "nonempty_rows": 13
+      },
+      {
+        "xml": "xl/worksheets/sheet3.xml",
+        "nonempty_rows": 22
+      },
+      {
+        "xml": "xl/worksheets/sheet4.xml",
+        "nonempty_rows": 211
+      },
+      {
+        "xml": "xl/worksheets/sheet5.xml",
+        "nonempty_rows": 19
+      },
+      {
+        "xml": "xl/worksheets/sheet6.xml",
+        "nonempty_rows": 13
+      },
+      {
+        "xml": "xl/worksheets/sheet7.xml",
+        "nonempty_rows": 11
+      },
+      {
+        "xml": "xl/worksheets/sheet8.xml",
+        "nonempty_rows": 13
+      },
+      {
+        "xml": "xl/worksheets/sheet9.xml",
+        "nonempty_rows": 6
+      },
+      {
+        "xml": "xl/worksheets/sheet10.xml",
+        "nonempty_rows": 14
+      },
+      {
+        "xml": "xl/worksheets/sheet11.xml",
+        "nonempty_rows": 3
+      },
+      {
+        "xml": "xl/worksheets/sheet12.xml",
+        "nonempty_rows": 7
+      }
+    ],
+    "check": "container_and_xml_readable_only_not_content_verification"
+  },
+  {
+    "path": "datasets/04_room_adjacency/recovered_versions/BuildMind_Room_Adjacency_DETAILED_FIXED.xlsx",
+    "sheet_names": [
+      "START_HERE",
+      "SOURCES",
+      "ROOM_TYPES",
+      "ROOM_RELATIONSHIPS",
+      "ACTIVE_RULES_ONLY",
+      "CONSTRAINTS",
+      "TEST_SCENARIOS",
+      "AGENT_WORKFLOW",
+      "ML_EVALUATION",
+      "AGENT_JSON_EXAMPLES",
+      "DATA_PROVENANCE"
+    ],
+    "row_counts": [
+      {
+        "xml": "xl/worksheets/sheet1.xml",
+        "nonempty_rows": 9
+      },
+      {
+        "xml": "xl/worksheets/sheet2.xml",
+        "nonempty_rows": 10
+      },
+      {
+        "xml": "xl/worksheets/sheet3.xml",
+        "nonempty_rows": 22
+      },
+      {
+        "xml": "xl/worksheets/sheet4.xml",
+        "nonempty_rows": 211
+      },
+      {
+        "xml": "xl/worksheets/sheet5.xml",
+        "nonempty_rows": 55
+      },
+      {
+        "xml": "xl/worksheets/sheet6.xml",
+        "nonempty_rows": 19
+      },
+      {
+        "xml": "xl/worksheets/sheet7.xml",
+        "nonempty_rows": 13
+      },
+      {
+        "xml": "xl/worksheets/sheet8.xml",
+        "nonempty_rows": 9
+      },
+      {
+        "xml": "xl/worksheets/sheet9.xml",
+        "nonempty_rows": 11
+      },
+      {
+        "xml": "xl/worksheets/sheet10.xml",
+        "nonempty_rows": 5
+      },
+      {
+        "xml": "xl/worksheets/sheet11.xml",
+        "nonempty_rows": 7
+      }
+    ],
+    "check": "container_and_xml_readable_only_not_content_verification"
+  }
+]

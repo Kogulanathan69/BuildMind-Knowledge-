@@ -1,0 +1,582 @@
+[
+  {
+    "path": "source_archives/BSR-2021-2022(1).zip",
+    "bytes": 71349467,
+    "sha256": "0c90b35267de987daade1d8d1be004ba3423544f5d10fdeabc9cb94a81915faa",
+    "original_name": "BSR-2021-2022(1).zip",
+    "library_file_id": "libfile_4cdd31183e68819186388d86d5b61853",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "sources/02_cost/BSR-2021_Construction.pdf",
+    "bytes": 1704243,
+    "sha256": "2ce7c910a48497357589ecbd75e4b8e696354f6ca819961dbeb247875411c799",
+    "original_name": "BSR-2021_Construction.pdf",
+    "library_file_id": "libfile_a576dc02f0d08191bea7706e3fd781b6",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "sources/02_cost/BSR-2023_Construction.pdf",
+    "bytes": 590130,
+    "sha256": "fd9429f8239d8ca974b934aa17f3b31593409a1246b6e8bca88a808c0060e008",
+    "original_name": "BSR-2023_Construction.pdf",
+    "library_file_id": "libfile_9642d1cedb308191994ca7ec0db4d8ab",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "sources/02_cost/BSR.pdf",
+    "bytes": 1694154,
+    "sha256": "5fb2ba14aee289bd6a3c69b5fe4c50281bbdc8531fc5557443170209817d626d",
+    "original_name": "BSR.pdf",
+    "library_file_id": "libfile_314b6c1f81388191a3f98df8e78f0234",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "source_archives/BSR.zip",
+    "bytes": 22152502,
+    "sha256": "ac72b012b3207ca938a47167748d74d0648f6df0bf6531454e177c4d287ae72b",
+    "original_name": "BSR.zip",
+    "library_file_id": "libfile_de02166e844881918dba9875a3abae51",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "sources/02_cost/BSR_2024_cons.pdf",
+    "bytes": 3346427,
+    "sha256": "f09cc6b3a412a9ca7f8855b17357eed8a6bb89876ece4f4aac8f3b87d2454f77",
+    "original_name": "BSR_2024_cons.pdf",
+    "library_file_id": "libfile_ce450554f8d0819184296b2294e7c909",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "source_archives/Build Mind Data Set - Niru.zip",
+    "bytes": 108710775,
+    "sha256": "f5c806d90323a9715d95b056ba39a0ade7b52f87c8b9082c6c743b27f13666b2",
+    "original_name": "Build Mind Data Set - Niru.zip",
+    "library_file_id": "libfile_3a74ab3313dc819191c4aeff05102087",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/00_legacy_combined/BuildMind_25_District_AI_Dataset_Foundation.zip",
+    "bytes": 4489,
+    "sha256": "169bd725b6e8dfc0faf84447a22068b4269c9b999fba5709ca074d2b6fd7e76e",
+    "original_name": "BuildMind_25_District_AI_Dataset_Foundation.zip",
+    "library_file_id": "libfile_f0e5b4720f4c8191a4cbb2a5713d1706",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/00_legacy_combined/BuildMind_AI_Dataset_v1 (1)(1).xlsx",
+    "bytes": 265365,
+    "sha256": "554d6bf9a21f39ef662116aeb8e012b12ee4c5592414eb250883e1523daed7a5",
+    "original_name": "BuildMind_AI_Dataset_v1 (1)(1).xlsx",
+    "library_file_id": "libfile_5359af5d6e0081919448eaff14803ac5",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/00_legacy_combined/BuildMind_AI_Dataset_v1 (1).xlsx",
+    "bytes": 265365,
+    "sha256": "554d6bf9a21f39ef662116aeb8e012b12ee4c5592414eb250883e1523daed7a5",
+    "original_name": "BuildMind_AI_Dataset_v1 (1).xlsx",
+    "library_file_id": "libfile_8852f705615881919966d03fd0fca09a",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": "datasets/00_legacy_combined/BuildMind_AI_Dataset_v1 (1)(1).xlsx"
+  },
+  {
+    "path": "datasets/00_legacy_combined/BuildMind_AI_Dataset_v1 (1).zip",
+    "bytes": 296183,
+    "sha256": "1b801b14366e8bad210290d45b703b5609fcb5fa4813bec10eac658a0eff2d11",
+    "original_name": "BuildMind_AI_Dataset_v1 (1).zip",
+    "library_file_id": "libfile_67f54d06b1488191a3b09a19c19dc23e",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/00_legacy_combined/BuildMind_AI_Dataset_v1.xlsx",
+    "bytes": 265365,
+    "sha256": "554d6bf9a21f39ef662116aeb8e012b12ee4c5592414eb250883e1523daed7a5",
+    "original_name": "BuildMind_AI_Dataset_v1.xlsx",
+    "library_file_id": "libfile_ec081daf25e081918203c379fd169cb9",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": "datasets/00_legacy_combined/BuildMind_AI_Dataset_v1 (1)(1).xlsx"
+  },
+  {
+    "path": "datasets/07_templates/recovered_versions/BuildMind_Architecture.xlsx",
+    "bytes": 8151,
+    "sha256": "c35078f6edd1b88e9f352e026bf919fed070c910e547391a26dbeadcb2cf837a",
+    "original_name": "BuildMind_Architecture.xlsx",
+    "library_file_id": "libfile_9488d10423ec819191e90ba76732962a",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "documents/budget/BuildMind_Full_Cash_Budget_LKR_15000.pdf",
+    "bytes": 30083,
+    "sha256": "2b184fcfc9464439ba896d1bab12f31646baca4f537cdc10131f7ba8d0261853",
+    "original_name": "BuildMind_Full_Cash_Budget_LKR_15000.pdf",
+    "library_file_id": "libfile_cbf92db76a288191b72337cca0644b90",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/07_templates/recovered_versions/BuildMind_M7_Dataset.docx",
+    "bytes": 38798,
+    "sha256": "f1481bc3f2800199f7e1a0864ff819e79f6a6ce13488c8583100f9881a4706f5",
+    "original_name": "BuildMind_M7_Dataset.docx",
+    "library_file_id": "libfile_2b0122553c2c81919e2218b6461ca894",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/07_templates/recovered_versions/BuildMind_M7_Dataset.zip",
+    "bytes": 36502,
+    "sha256": "d210c18c5419ec6244b49d492a252e1b78dbd353ec1ec1c5e3e4b2983e965b9f",
+    "original_name": "BuildMind_M7_Dataset.zip",
+    "library_file_id": "libfile_4d0a8e6668688191b605f4e1313ec4b4",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/06_components/original_handover/BuildMind_Member6_Step10_FINAL_HANDOVER_ALL_IN_ONE (1).zip",
+    "bytes": 14688521,
+    "sha256": "b842160f83c85b8af18f6e47b8c462771bd57724c0e5f1b9a72e306d98b9341c",
+    "original_name": "BuildMind_Member6_Step10_FINAL_HANDOVER_ALL_IN_ONE (1).zip",
+    "library_file_id": "libfile_cdc9146508e08191be5115ff1e722fb8",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/07_templates/recovered_versions/BuildMind_Member7_Architecture_Dataset_Guide.docx",
+    "bytes": 38798,
+    "sha256": "f1481bc3f2800199f7e1a0864ff819e79f6a6ce13488c8583100f9881a4706f5",
+    "original_name": "BuildMind_Member7_Architecture_Dataset_Guide.docx",
+    "library_file_id": "libfile_688afbc9e0408191900f524a3af55e54",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": "datasets/07_templates/recovered_versions/BuildMind_M7_Dataset.docx"
+  },
+  {
+    "path": "datasets/07_templates/recovered_versions/BuildMind_Member7_Architecture_Dataset_Template.docx",
+    "bytes": 39034,
+    "sha256": "22a3f70c53bcefb4431fbcd3420c38f53327a14e2aecd756ec8b9f384724a55f",
+    "original_name": "BuildMind_Member7_Architecture_Dataset_Template.docx",
+    "library_file_id": "libfile_12b9dab1c6908191bd4f2a7871580f6d",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "documents/earlier_requirements/BuildMind_Project_Requirements.docx",
+    "bytes": 40642,
+    "sha256": "d957b33c146e1900ed00f06c27783606b3d5a5a843bcd969ad4febcccf649f88",
+    "original_name": "BuildMind_Project_Requirements.docx",
+    "library_file_id": "libfile_41f3ff92b48c819197b7f131c86aed97",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "documents/earlier_requirements/BuildMind_Project_Requirements.pdf",
+    "bytes": 142651,
+    "sha256": "f2dea66eb6408cab18a243a537c81ce43d4b0719623b8d2a89e36a745a11c7c1",
+    "original_name": "BuildMind_Project_Requirements.pdf",
+    "library_file_id": "libfile_f130a6b21e9881918474928271f1859e",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "documents/brd/BuildMind_Submission_BRD.docx",
+    "bytes": 69383,
+    "sha256": "bd85a903c199aa5f265b1b488bf13a3aa3d4136eb6cc4877379181f84d0c6a3b",
+    "original_name": "BuildMind_Submission_BRD.docx",
+    "library_file_id": "libfile_063ca9312d2c8191ab7fdd4e86ab88a9",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "documents/brd/BuildMind_Submission_BRD.pdf",
+    "bytes": 570654,
+    "sha256": "9a46eac846cef987644e80aa86dce6fbae53decc6720da247a5b8ad59857a9da",
+    "original_name": "BuildMind_Submission_BRD.pdf",
+    "library_file_id": "libfile_8819bcfb42688191a64c7dab5029b0c2",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "documents/budget/BuildMind_University_Project_Cost_Estimation.pdf",
+    "bytes": 79367,
+    "sha256": "fb924fd298d67027b7cf4757bf284df6bb4ec2a6b15c39c8872bd7289ef73e22",
+    "original_name": "BuildMind_University_Project_Cost_Estimation.pdf",
+    "library_file_id": "libfile_d2b9793286f08191ac7ed5d8bc3b1a37",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "sources/02_cost/Const_BSR_2020_final-compressed.pdf",
+    "bytes": 1241259,
+    "sha256": "04ea95d49f9df6151fcfc3baa64e31c30cbcbd38cfe50cbfd218438821d82d9b",
+    "original_name": "Const_BSR_2020_final-compressed.pdf",
+    "library_file_id": "libfile_c7d5a0a0a4308191b7ee187fbdcc6c08",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "source_archives/Const_BSR_2020_final-compressed.zip",
+    "bytes": 42923819,
+    "sha256": "5b70ce401282f41033976f3124e38713f3c2b591f6bc56ad4c92382c95501b1c",
+    "original_name": "Const_BSR_2020_final-compressed.zip",
+    "library_file_id": "libfile_ee00c9e5ff108191834ed4941aeb1c8e",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Final_4_Paper_Research_Dataset.xlsx",
+    "bytes": 13046,
+    "sha256": "4ad3b5789b72c7bf229517cecaf34347466dd0fa302b1e455c71d27f84a176de",
+    "original_name": "BuildMind_Member3_Final_4_Paper_Research_Dataset.xlsx",
+    "library_file_id": "libfile_2111c656d42c819183d776f28e0dd209",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Gazette_Verified_Dataset.xlsx",
+    "bytes": 9081,
+    "sha256": "6b55339e6a94168d85985229e0cba7e07d32baa5196a056193289920ee19e436",
+    "original_name": "BuildMind_Member3_Gazette_Verified_Dataset.xlsx",
+    "library_file_id": "libfile_e10c7601edd881918a42fa966fc58477",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Research_Starter.xlsx",
+    "bytes": 7627,
+    "sha256": "39f25a7803404b44a333515e3cfe931d8b7e2933c61b3c9f7f39067fbfa158f0",
+    "original_name": "BuildMind_Member3_Research_Starter.xlsx",
+    "library_file_id": "libfile_afeda44f62508191817942074665613d",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Sri_Lanka_Room_Standards_Extract.xlsx",
+    "bytes": 9827,
+    "sha256": "7e7a6a54690e39093607b6f965081f16a3978245d33423ea0c172a463dc771f2",
+    "original_name": "BuildMind_Member3_Sri_Lanka_Room_Standards_Extract.xlsx",
+    "library_file_id": "libfile_6eec218faec88191ba493d47a8bef387",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Sri_Lanka_Room_Standards_Stage2.xlsx",
+    "bytes": 14600,
+    "sha256": "e061e77e7512fef4e343291b51e416a9eea0c4c017acf5886071a5c3d975173c",
+    "original_name": "BuildMind_Member3_Sri_Lanka_Room_Standards_Stage2.xlsx",
+    "library_file_id": "libfile_626faa9c14088191b5da96eb43b61a5e",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Stage3_Concept_Layout_Validation.xlsx",
+    "bytes": 9054,
+    "sha256": "7096e30c635e240b38de260fd391f4ca31ecb918d1e4cb60d71bc33fbfa95de8",
+    "original_name": "BuildMind_Member3_Stage3_Concept_Layout_Validation.xlsx",
+    "library_file_id": "libfile_e38f6f4f325081918c8ae3749a9fc7e0",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Stage4_Verified_Research.xlsx",
+    "bytes": 9677,
+    "sha256": "68c6be601a04929975e5e3d76dfbd2d7725173e07b31cd0ec2c7b9afa30e0808",
+    "original_name": "BuildMind_Member3_Stage4_Verified_Research.xlsx",
+    "library_file_id": "libfile_c6fef4d16c18819199e2432942bd1d72",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Stage5_Sri_Lanka_Compliance_Research.xlsx",
+    "bytes": 16400,
+    "sha256": "da1d25fae9835854bada6b4c4b8739e3779f05009f2169a972fa2b9ca6726a7c",
+    "original_name": "BuildMind_Member3_Stage5_Sri_Lanka_Compliance_Research.xlsx",
+    "library_file_id": "libfile_ca5cbd25ebd481918cf59589d11fae3a",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Stage6_Gazette_Verification_Audit.xlsx",
+    "bytes": 9684,
+    "sha256": "0b98ebc4fc3a73803619d133a0acb1d29c732e325f4fee6c89d322eee1b37a86",
+    "original_name": "BuildMind_Member3_Stage6_Gazette_Verification_Audit.xlsx",
+    "library_file_id": "libfile_06626ad8e9a881918b4203d858b3337a",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Stage9_Gazette_Text_Verified.xlsx",
+    "bytes": 9021,
+    "sha256": "c2d3a078f179272bcacf61196f89b862d47c24c8225277670bfb279401ed0523",
+    "original_name": "BuildMind_Member3_Stage9_Gazette_Text_Verified.xlsx",
+    "library_file_id": "libfile_914b4fabb9d08191a4d7650cd5682b29",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_room_standards.csv",
+    "bytes": 2256,
+    "sha256": "96dcd7d37fec2ed4ec525e7a4b82631df922fb579c091153e82f283a47f40e4a",
+    "original_name": "BuildMind_Member3_room_standards.csv",
+    "library_file_id": "libfile_22516ee45dcc8191b6d07fdbeb0eddfb",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_NBRO_Reference_Plan_Extraction_v1.xlsx",
+    "bytes": 10261,
+    "sha256": "8b80bc58a9113e7a5354e5dd12a20077ca4da68cdc51c22370799d62eff17f57",
+    "original_name": "BuildMind_NBRO_Reference_Plan_Extraction_v1.xlsx",
+    "library_file_id": "libfile_654a30ddc6b08191ad66c4dd2009c82d",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Stage8_2_Updated_Room_Dimensions.xlsx",
+    "bytes": 10411,
+    "sha256": "d99a0f9e7a379c3e9442bdd3b30d99256e6344f8ae810542b0b390e943084d2c",
+    "original_name": "BuildMind_Stage8_2_Updated_Room_Dimensions.xlsx",
+    "library_file_id": "libfile_db67042b50e081918fa3851a3e7c9c14",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Stage8_Sri_Lankan_Floor_Plans_Initial_Extraction.xlsx",
+    "bytes": 9467,
+    "sha256": "1b54bb644da7197105b84d9c227ac509635798d43538b0b046d920a1cf4d66cb",
+    "original_name": "BuildMind_Stage8_Sri_Lankan_Floor_Plans_Initial_Extraction.xlsx",
+    "library_file_id": "libfile_276059ab9700819183d802370a7bf934",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "source_archives/ResPlan(1).zip",
+    "bytes": 100106537,
+    "sha256": "f718de8865e51bbe93b49b584798e3c536ed6b4b8a5d32f01b56812f389aeb46",
+    "original_name": "ResPlan(1).zip",
+    "library_file_id": "libfile_4fac77c6ac7881919dc5a79f160a9a15",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/07_templates/resplan_support/ResPlan_demo.ipynb",
+    "bytes": 152701,
+    "sha256": "d5434c810f9387f64268a8c305f2b103ecafa95e24edb82af8f858e4be70b5cd",
+    "original_name": "ResPlan_demo.ipynb",
+    "library_file_id": "libfile_90dc89e5b3b48191876deb50a0b9602b",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "sources/02_cost/SoR 2026 - Buildings.pdf",
+    "bytes": 4969230,
+    "sha256": "e607a91e69a5536f08390cdd13d59644097e1a72972cf208f48a34469e2ec677",
+    "original_name": "SoR 2026 - Buildings.pdf",
+    "library_file_id": "",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "sources/02_cost/SoR 2026.pdf",
+    "bytes": 866376,
+    "sha256": "2ba2646b665549450c764839af25a49589ad1c4bf66d2f3324a8b74e242315f1",
+    "original_name": "SoR 2026.pdf",
+    "library_file_id": "",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "experiments/earlier_code_packages/buildmind-3d-v2-architectural.zip",
+    "bytes": 18851,
+    "sha256": "b26c8d8d3fa9449384163827b21d0485a39c813c9a95385ed4dd1689ea4da89b",
+    "original_name": "buildmind-3d-v2-architectural.zip",
+    "library_file_id": "libfile_2af7f6e77808819192c68e7cfe514094",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "experiments/earlier_code_packages/buildmind-3d-v3-furnished.zip",
+    "bytes": 17014,
+    "sha256": "8b867f453c5960c06c71c50351cc6bfa09b196adb1607208d6eb374789228354",
+    "original_name": "buildmind-3d-v3-furnished.zip",
+    "library_file_id": "libfile_d114bc32105c8191b4f278935197e3c4",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "experiments/earlier_code_packages/buildmind-angular-v2.zip",
+    "bytes": 7880,
+    "sha256": "c93cdeef6e6e950412a2f4428e4e86be244cc5cf909895e38d12558824e0d0fd",
+    "original_name": "buildmind-angular-v2.zip",
+    "library_file_id": "libfile_95e1a74d005481919909f7ef8a1a716c",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "experiments/earlier_code_packages/buildmind-angular.zip",
+    "bytes": 8527,
+    "sha256": "0e06659297e59e5ffee245397c72a8463492ce22f9ea2f89abd4c655177c505e",
+    "original_name": "buildmind-angular.zip",
+    "library_file_id": "libfile_5aa0029281a081919d0d6c20de07aabb",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "experiments/earlier_code_packages/buildmind-frontend-3d-roof-toggle.zip",
+    "bytes": 15196,
+    "sha256": "03bddefb205424a938c7dd581d3cba4d0dc75c555ebce4c5444a4c6215134085",
+    "original_name": "buildmind-frontend-3d-roof-toggle.zip",
+    "library_file_id": "libfile_46f27258052481919c252de44932f165",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "experiments/earlier_code_packages/buildmind-frontend-3d.zip",
+    "bytes": 10728,
+    "sha256": "fdc1d698830bb71b89e51654397f3d9c3e0f091e3754ff44baa7208c5ff6d0d5",
+    "original_name": "buildmind-frontend-3d.zip",
+    "library_file_id": "libfile_2b5981ce2764819197bc4257cf4fc391",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "experiments/earlier_code_packages/buildmind-frontend-sample.zip",
+    "bytes": 11183,
+    "sha256": "89cb17e220f9c5ae5f770ce66da76987e0e97375f4f9016354553873ca1a52cf",
+    "original_name": "buildmind-frontend-sample.zip",
+    "library_file_id": "libfile_5852d69b4c608191af165433f4da70c6",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "experiments/earlier_code_packages/buildmind-frontend-selectable.zip",
+    "bytes": 9579,
+    "sha256": "77e39f26adced82507553a50ceda0f5a92e05294d03718467d9134f55f95f8d4",
+    "original_name": "buildmind-frontend-selectable.zip",
+    "library_file_id": "libfile_3c3e056489988191963b66291d1cc3b8",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "experiments/earlier_code_packages/buildmind-frontend.zip",
+    "bytes": 6530,
+    "sha256": "21274e347ddfb097286ee7c1a6eba301919c6b966e120000ec0fb933d266ff1e",
+    "original_name": "buildmind-frontend.zip",
+    "library_file_id": "libfile_d6f879bd4c908191bfda4c81a43dc2ec",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "experiments/earlier_code_packages/buildmind-live-upgrade.zip",
+    "bytes": 12792,
+    "sha256": "1808ff07d9534ceae679071d1ec246d940d6befc7d34ea26dca7966f690587df",
+    "original_name": "buildmind-live-upgrade.zip",
+    "library_file_id": "libfile_84c2787f68e88191ac4c07543dcb069e",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/04_room_adjacency/recovered_versions/BuildMind_AI_Room_Adjacency_Knowledgebase.xlsx",
+    "bytes": 49180,
+    "sha256": "219761a407fd32d89c98d00c8bacb3c37bced323ce0ca0eed5f95b98b944ea2b",
+    "original_name": "BuildMind_AI_Room_Adjacency_Knowledgebase.xlsx",
+    "library_file_id": "libfile_c924ebc9e44c819191ac9065f1670b69",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/04_room_adjacency/recovered_versions/BuildMind_Room_Adjacency_DETAILED_FIXED.xlsx",
+    "bytes": 43104,
+    "sha256": "239fdc865c85eab1575e03c5bc6b22f3eec5ea4a99874d11b4f6c4e0861c93ff",
+    "original_name": "BuildMind_Room_Adjacency_DETAILED_FIXED.xlsx",
+    "library_file_id": "libfile_74ca6f36883c8191baf6a44baa5288d6",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/07_templates/resplan_support/resplan_utils.py",
+    "bytes": 29625,
+    "sha256": "9671049d55556dcbc661e3f096ff05070a7452609e90bfedacfc55f338265428",
+    "original_name": "resplan_utils.py",
+    "library_file_id": "libfile_52e59ec1afc08191919327fbfc23a1d8",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  },
+  {
+    "path": "datasets/01_weather/original/weather-data-siyambalanduwa.zip",
+    "bytes": 3267670,
+    "sha256": "fc1722ad37d995ccdc131c9d440a9786e6abfd729ff600fc50005d34279648db",
+    "original_name": "weather-data-siyambalanduwa.zip",
+    "library_file_id": "libfile_6c88b9d33f548191826d5a3b07a08912",
+    "recovery_status": "recovered_bytes",
+    "content_status": "not_reverified_for_design_use",
+    "duplicate_of": ""
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "identical_archives_sha256_groups": [
+    [
+      "No 25 of 1951 E(1).zip",
+      "No 25 of 1951 E(2).zip",
+      "No 25 of 1951 E.zip"
+    ],
+    [
+      "food(1).zip",
+      "food.zip"
+    ],
+    [
+      "weather-data-siyambalanduwa(1).zip",
+      "weather-data-siyambalanduwa.zip"
+    ]
+  ],
+  "note": "Identical source archives; other duplicated internal documents are not exhaustively detected."
+}

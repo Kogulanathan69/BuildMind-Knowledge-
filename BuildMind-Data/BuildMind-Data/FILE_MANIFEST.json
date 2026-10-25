@@ -1,0 +1,577 @@
+[
+  {
+    "path": "MISSING_AND_PENDING.md",
+    "bytes": 1942,
+    "sha256": "2266c30a6750b438348b48e6f42af38c35d89302fe1c0ed2a47e92f87c350098"
+  },
+  {
+    "path": "Prepare-Git-Preview.ps1",
+    "bytes": 520,
+    "sha256": "e36b5f8574af98a427f31a8a94fd7e438adb9ca80b2c1100c881c31691078481"
+  },
+  {
+    "path": "README_START_HERE.md",
+    "bytes": 1964,
+    "sha256": "b47cafb625c65e876285b71de318a0c0ca59a42aa30215afc864f0a8d18bec46"
+  },
+  {
+    "path": "RECOVERY_SOURCE_REGISTER.json",
+    "bytes": 25734,
+    "sha256": "eb5fbbb9b24ce505b1bb3e34a8ee26f13c4b72cc732d6b79076b4273c80bd345"
+  },
+  {
+    "path": "WORKBOOK_STRUCTURE_AUDIT.json",
+    "bytes": 19646,
+    "sha256": "8d5f190c947c742e89e04ddbdabf7282b1b0c014a899468f7c33b3f30015bbdb"
+  },
+  {
+    "path": "datasets/00_legacy_combined/BuildMind_25_District_AI_Dataset_Foundation.zip",
+    "bytes": 4489,
+    "sha256": "169bd725b6e8dfc0faf84447a22068b4269c9b999fba5709ca074d2b6fd7e76e"
+  },
+  {
+    "path": "datasets/00_legacy_combined/BuildMind_AI_Dataset_v1 (1)(1).xlsx",
+    "bytes": 265365,
+    "sha256": "554d6bf9a21f39ef662116aeb8e012b12ee4c5592414eb250883e1523daed7a5"
+  },
+  {
+    "path": "datasets/00_legacy_combined/BuildMind_AI_Dataset_v1 (1).xlsx",
+    "bytes": 265365,
+    "sha256": "554d6bf9a21f39ef662116aeb8e012b12ee4c5592414eb250883e1523daed7a5"
+  },
+  {
+    "path": "datasets/00_legacy_combined/BuildMind_AI_Dataset_v1 (1).zip",
+    "bytes": 296183,
+    "sha256": "1b801b14366e8bad210290d45b703b5609fcb5fa4813bec10eac658a0eff2d11"
+  },
+  {
+    "path": "datasets/00_legacy_combined/BuildMind_AI_Dataset_v1.xlsx",
+    "bytes": 265365,
+    "sha256": "554d6bf9a21f39ef662116aeb8e012b12ee4c5592414eb250883e1523daed7a5"
+  },
+  {
+    "path": "datasets/01_weather/RECOVERY_QA.json",
+    "bytes": 507,
+    "sha256": "74ebed7d4340f93ffd66c3fb786c7c552a6f2470ef4d1745f95ca151ae71bc30"
+  },
+  {
+    "path": "datasets/01_weather/monthly_raw/D205145-2021-09.csv",
+    "bytes": 3053129,
+    "sha256": "a9f9337bb8ee8472d31b8a212cfd24197072880f086576f91d34b7beb46ab832"
+  },
+  {
+    "path": "datasets/01_weather/monthly_raw/D205145-2021-10.csv",
+    "bytes": 712797,
+    "sha256": "3f11a298ca547560fab2f8563a6ada3da93579a53eab6df6ec73ef6e52e4ba2e"
+  },
+  {
+    "path": "datasets/01_weather/monthly_raw/D205145-2021-11.csv",
+    "bytes": 3038961,
+    "sha256": "7e9c2ef101b2c7449e89ff29573c46d5f46950b586f2ab12db25d7ec06fe000d"
+  },
+  {
+    "path": "datasets/01_weather/monthly_raw/D205145-2021-12.csv",
+    "bytes": 3154454,
+    "sha256": "d585901ea6f74667ac5484023b51b921eba3f91ea4d19292466e2c8da58f3a74"
+  },
+  {
+    "path": "datasets/01_weather/original/weather-data-siyambalanduwa.zip",
+    "bytes": 3267670,
+    "sha256": "fc1722ad37d995ccdc131c9d440a9786e6abfd729ff600fc50005d34279648db"
+  },
+  {
+    "path": "datasets/01_weather/weather_siyambalanduwa_2021_combined_raw.csv",
+    "bytes": 9950104,
+    "sha256": "fdbb70dbad037029ba50a0dd783af03d057b5f1da95c1b55b86f4ef43231b10f"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Final_4_Paper_Research_Dataset.xlsx",
+    "bytes": 13046,
+    "sha256": "4ad3b5789b72c7bf229517cecaf34347466dd0fa302b1e455c71d27f84a176de"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Gazette_Verified_Dataset.xlsx",
+    "bytes": 9081,
+    "sha256": "6b55339e6a94168d85985229e0cba7e07d32baa5196a056193289920ee19e436"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Research_Starter.xlsx",
+    "bytes": 7627,
+    "sha256": "39f25a7803404b44a333515e3cfe931d8b7e2933c61b3c9f7f39067fbfa158f0"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Sri_Lanka_Room_Standards_Extract.xlsx",
+    "bytes": 9827,
+    "sha256": "7e7a6a54690e39093607b6f965081f16a3978245d33423ea0c172a463dc771f2"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Sri_Lanka_Room_Standards_Stage2.xlsx",
+    "bytes": 14600,
+    "sha256": "e061e77e7512fef4e343291b51e416a9eea0c4c017acf5886071a5c3d975173c"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Stage3_Concept_Layout_Validation.xlsx",
+    "bytes": 9054,
+    "sha256": "7096e30c635e240b38de260fd391f4ca31ecb918d1e4cb60d71bc33fbfa95de8"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Stage4_Verified_Research.xlsx",
+    "bytes": 9677,
+    "sha256": "68c6be601a04929975e5e3d76dfbd2d7725173e07b31cd0ec2c7b9afa30e0808"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Stage5_Sri_Lanka_Compliance_Research.xlsx",
+    "bytes": 16400,
+    "sha256": "da1d25fae9835854bada6b4c4b8739e3779f05009f2169a972fa2b9ca6726a7c"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Stage6_Gazette_Verification_Audit.xlsx",
+    "bytes": 9684,
+    "sha256": "0b98ebc4fc3a73803619d133a0acb1d29c732e325f4fee6c89d322eee1b37a86"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_Stage9_Gazette_Text_Verified.xlsx",
+    "bytes": 9021,
+    "sha256": "c2d3a078f179272bcacf61196f89b862d47c24c8225277670bfb279401ed0523"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Member3_room_standards.csv",
+    "bytes": 2256,
+    "sha256": "96dcd7d37fec2ed4ec525e7a4b82631df922fb579c091153e82f283a47f40e4a"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_NBRO_Reference_Plan_Extraction_v1.xlsx",
+    "bytes": 10261,
+    "sha256": "8b80bc58a9113e7a5354e5dd12a20077ca4da68cdc51c22370799d62eff17f57"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Stage8_2_Updated_Room_Dimensions.xlsx",
+    "bytes": 10411,
+    "sha256": "d99a0f9e7a379c3e9442bdd3b30d99256e6344f8ae810542b0b390e943084d2c"
+  },
+  {
+    "path": "datasets/03_room_dimensions/recovered_versions/BuildMind_Stage8_Sri_Lankan_Floor_Plans_Initial_Extraction.xlsx",
+    "bytes": 9467,
+    "sha256": "1b54bb644da7197105b84d9c227ac509635798d43538b0b046d920a1cf4d66cb"
+  },
+  {
+    "path": "datasets/04_room_adjacency/recovered_versions/BuildMind_AI_Room_Adjacency_Knowledgebase.xlsx",
+    "bytes": 49180,
+    "sha256": "219761a407fd32d89c98d00c8bacb3c37bced323ce0ca0eed5f95b98b944ea2b"
+  },
+  {
+    "path": "datasets/04_room_adjacency/recovered_versions/BuildMind_Room_Adjacency_DETAILED_FIXED.xlsx",
+    "bytes": 43104,
+    "sha256": "239fdc865c85eab1575e03c5bc6b22f3eec5ea4a99874d11b4f6c4e0861c93ff"
+  },
+  {
+    "path": "datasets/06_components/original_handover/BuildMind_Member6_Step10_FINAL_HANDOVER_ALL_IN_ONE (1).zip",
+    "bytes": 14688521,
+    "sha256": "b842160f83c85b8af18f6e47b8c462771bd57724c0e5f1b9a72e306d98b9341c"
+  },
+  {
+    "path": "datasets/07_templates/recovered_versions/BuildMind_Architecture.xlsx",
+    "bytes": 8151,
+    "sha256": "c35078f6edd1b88e9f352e026bf919fed070c910e547391a26dbeadcb2cf837a"
+  },
+  {
+    "path": "datasets/07_templates/recovered_versions/BuildMind_M7_Dataset.docx",
+    "bytes": 38798,
+    "sha256": "f1481bc3f2800199f7e1a0864ff819e79f6a6ce13488c8583100f9881a4706f5"
+  },
+  {
+    "path": "datasets/07_templates/recovered_versions/BuildMind_M7_Dataset.zip",
+    "bytes": 36502,
+    "sha256": "d210c18c5419ec6244b49d492a252e1b78dbd353ec1ec1c5e3e4b2983e965b9f"
+  },
+  {
+    "path": "datasets/07_templates/recovered_versions/BuildMind_Member7_Architecture_Dataset_Guide.docx",
+    "bytes": 38798,
+    "sha256": "f1481bc3f2800199f7e1a0864ff819e79f6a6ce13488c8583100f9881a4706f5"
+  },
+  {
+    "path": "datasets/07_templates/recovered_versions/BuildMind_Member7_Architecture_Dataset_Template.docx",
+    "bytes": 39034,
+    "sha256": "22a3f70c53bcefb4431fbcd3420c38f53327a14e2aecd756ec8b9f384724a55f"
+  },
+  {
+    "path": "datasets/07_templates/resplan_support/ResPlan_demo.ipynb",
+    "bytes": 152701,
+    "sha256": "d5434c810f9387f64268a8c305f2b103ecafa95e24edb82af8f858e4be70b5cd"
+  },
+  {
+    "path": "datasets/07_templates/resplan_support/resplan_utils.py",
+    "bytes": 29625,
+    "sha256": "9671049d55556dcbc661e3f096ff05070a7452609e90bfedacfc55f338265428"
+  },
+  {
+    "path": "documents/brd/BuildMind_Submission_BRD.docx",
+    "bytes": 69383,
+    "sha256": "bd85a903c199aa5f265b1b488bf13a3aa3d4136eb6cc4877379181f84d0c6a3b"
+  },
+  {
+    "path": "documents/brd/BuildMind_Submission_BRD.pdf",
+    "bytes": 570654,
+    "sha256": "9a46eac846cef987644e80aa86dce6fbae53decc6720da247a5b8ad59857a9da"
+  },
+  {
+    "path": "documents/budget/BuildMind_Full_Cash_Budget_LKR_15000.pdf",
+    "bytes": 30083,
+    "sha256": "2b184fcfc9464439ba896d1bab12f31646baca4f537cdc10131f7ba8d0261853"
+  },
+  {
+    "path": "documents/budget/BuildMind_University_Project_Cost_Estimation.pdf",
+    "bytes": 79367,
+    "sha256": "fb924fd298d67027b7cf4757bf284df6bb4ec2a6b15c39c8872bd7289ef73e22"
+  },
+  {
+    "path": "documents/earlier_requirements/BuildMind_Project_Requirements.docx",
+    "bytes": 40642,
+    "sha256": "d957b33c146e1900ed00f06c27783606b3d5a5a843bcd969ad4febcccf649f88"
+  },
+  {
+    "path": "documents/earlier_requirements/BuildMind_Project_Requirements.pdf",
+    "bytes": 142651,
+    "sha256": "f2dea66eb6408cab18a243a537c81ce43d4b0719623b8d2a89e36a745a11c7c1"
+  },
+  {
+    "path": "experiments/earlier_code_packages/buildmind-3d-v2-architectural.zip",
+    "bytes": 18851,
+    "sha256": "b26c8d8d3fa9449384163827b21d0485a39c813c9a95385ed4dd1689ea4da89b"
+  },
+  {
+    "path": "experiments/earlier_code_packages/buildmind-3d-v3-furnished.zip",
+    "bytes": 17014,
+    "sha256": "8b867f453c5960c06c71c50351cc6bfa09b196adb1607208d6eb374789228354"
+  },
+  {
+    "path": "experiments/earlier_code_packages/buildmind-angular-v2.zip",
+    "bytes": 7880,
+    "sha256": "c93cdeef6e6e950412a2f4428e4e86be244cc5cf909895e38d12558824e0d0fd"
+  },
+  {
+    "path": "experiments/earlier_code_packages/buildmind-angular.zip",
+    "bytes": 8527,
+    "sha256": "0e06659297e59e5ffee245397c72a8463492ce22f9ea2f89abd4c655177c505e"
+  },
+  {
+    "path": "experiments/earlier_code_packages/buildmind-frontend-3d-roof-toggle.zip",
+    "bytes": 15196,
+    "sha256": "03bddefb205424a938c7dd581d3cba4d0dc75c555ebce4c5444a4c6215134085"
+  },
+  {
+    "path": "experiments/earlier_code_packages/buildmind-frontend-3d.zip",
+    "bytes": 10728,
+    "sha256": "fdc1d698830bb71b89e51654397f3d9c3e0f091e3754ff44baa7208c5ff6d0d5"
+  },
+  {
+    "path": "experiments/earlier_code_packages/buildmind-frontend-sample.zip",
+    "bytes": 11183,
+    "sha256": "89cb17e220f9c5ae5f770ce66da76987e0e97375f4f9016354553873ca1a52cf"
+  },
+  {
+    "path": "experiments/earlier_code_packages/buildmind-frontend-selectable.zip",
+    "bytes": 9579,
+    "sha256": "77e39f26adced82507553a50ceda0f5a92e05294d03718467d9134f55f95f8d4"
+  },
+  {
+    "path": "experiments/earlier_code_packages/buildmind-frontend.zip",
+    "bytes": 6530,
+    "sha256": "21274e347ddfb097286ee7c1a6eba301919c6b966e120000ec0fb933d266ff1e"
+  },
+  {
+    "path": "experiments/earlier_code_packages/buildmind-live-upgrade.zip",
+    "bytes": 12792,
+    "sha256": "1808ff07d9534ceae679071d1ec246d940d6befc7d34ea26dca7966f690587df"
+  },
+  {
+    "path": "project_knowledge/.gitignore",
+    "bytes": 269,
+    "sha256": "db3da66c522b02b4c2a95d65b4d34a979e012d313615948a965eb748fd6affe7"
+  },
+  {
+    "path": "project_knowledge/CURRENT-STATUS.md",
+    "bytes": 2064,
+    "sha256": "5647d4cd6f8e30960a2cc0f06747a834576ae95dca55386f6cf11c3443b67818"
+  },
+  {
+    "path": "project_knowledge/NEXT-STEPS.md",
+    "bytes": 1273,
+    "sha256": "b9aa6cc30d051f2b2910606d8425baddab95f86945f56521c7bcf1503dd01ee2"
+  },
+  {
+    "path": "project_knowledge/PROJECT-DECISIONS.md",
+    "bytes": 13096,
+    "sha256": "64daa33e4501c19236b2dee7720125f0394e0a33e94903bca4e00e5aa97bc06a"
+  },
+  {
+    "path": "project_knowledge/PROJECT-HANDOFF.md",
+    "bytes": 1357,
+    "sha256": "2bf9e952edf23e0736a75636275f15b07118531482d5b020387d9bdd107783ff"
+  },
+  {
+    "path": "project_knowledge/README.md",
+    "bytes": 2390,
+    "sha256": "62bbc2e93d4a48a750538293efeab8c11e3067068dc86c06f6a1ae978b531e3f"
+  },
+  {
+    "path": "project_knowledge/START-HERE.md",
+    "bytes": 1624,
+    "sha256": "4241e89078dfdce6ebd7a163172467075b3fc6275efcc5f3a1a8cc8000df5d84"
+  },
+  {
+    "path": "project_knowledge/docs/brd/BuildMind_Submission_BRD.docx",
+    "bytes": 69383,
+    "sha256": "bd85a903c199aa5f265b1b488bf13a3aa3d4136eb6cc4877379181f84d0c6a3b"
+  },
+  {
+    "path": "project_knowledge/docs/brd/BuildMind_Submission_BRD.md",
+    "bytes": 49420,
+    "sha256": "9c8f9c9a035b265fc478ee4bd43ad39a20747ae2019ac90b0adcdfdf45db145e"
+  },
+  {
+    "path": "project_knowledge/docs/brd/BuildMind_Submission_BRD.pdf",
+    "bytes": 545510,
+    "sha256": "26d470da41bb602ffa09c2baa00c7777913250ca093f0c7f5f8be7e5708fb326"
+  },
+  {
+    "path": "project_knowledge/docs/brd/manifest.json",
+    "bytes": 610,
+    "sha256": "89aee5a70bde1cd5bd7387f47a2cf610388b516361c1727083ff612e7110ade6"
+  },
+  {
+    "path": "project_knowledge/docs/discussion-record/ARCHITECTURE-AND-AI.md",
+    "bytes": 6386,
+    "sha256": "2ed37ba4caaa7b10cf332689c55e1f65ae6420546999dd8c3be5d3c09f8a4e5a"
+  },
+  {
+    "path": "project_knowledge/docs/discussion-record/DATASETS-AND-EVIDENCE.md",
+    "bytes": 10852,
+    "sha256": "e8bcd65c7dd677267bb2284ea34aa15f813b8d1cfce320dba0f693d2faa4c451"
+  },
+  {
+    "path": "project_knowledge/docs/discussion-record/DELIVERY-AND-BRD.md",
+    "bytes": 3713,
+    "sha256": "ae83527093d863958c1eb53ae87fbb7abf19197675318fbd53e71662e728043a"
+  },
+  {
+    "path": "project_knowledge/docs/discussion-record/OPEN-WORK-AND-EVALUATION.md",
+    "bytes": 4420,
+    "sha256": "bb1e321163d7b3144b75451d70de6cd208bc6ef5a8e5d8cf2e2ec71178e337ee"
+  },
+  {
+    "path": "project_knowledge/docs/discussion-record/PRODUCT-AND-SCOPE.md",
+    "bytes": 4892,
+    "sha256": "a297f32c984bdde7b788ca9382fa8ff2142518f6bd4679fae61b05d01a1341e1"
+  },
+  {
+    "path": "project_knowledge/docs/discussion-record/PROTOTYPE-AND-EXPERIMENTS.md",
+    "bytes": 6152,
+    "sha256": "90f7661eb0ae4258c0acb4457218f9e560860dc05e5143958aa42769d5f30ab6"
+  },
+  {
+    "path": "project_knowledge/docs/discussion-record/README.md",
+    "bytes": 1400,
+    "sha256": "f2f73a4ca716efac50baa3fe321bfbd08565503a88724a8dfcc716f5dd4a1d15"
+  },
+  {
+    "path": "project_knowledge/docs/discussion-record/TOPIC-COVERAGE.md",
+    "bytes": 5923,
+    "sha256": "d18487202293fa83075a528089722eb667f52269001d4d430b934cabf09773f3"
+  },
+  {
+    "path": "project_knowledge/docs/history/2026-10-19/CURRENT-STATUS.md",
+    "bytes": 6263,
+    "sha256": "f56afe163a1419ff8c5eecf1b3322ca51c4b5e459881172abde2ba0a6c6b7f7b"
+  },
+  {
+    "path": "project_knowledge/docs/history/2026-10-19/NEXT-STEPS.md",
+    "bytes": 7249,
+    "sha256": "68cac13995489f0793215a24013832ef8900239c5f8a7a1f5ed84570d0d4b9d5"
+  },
+  {
+    "path": "project_knowledge/docs/history/2026-10-19/PROJECT-DECISIONS.md",
+    "bytes": 10644,
+    "sha256": "b54aedbdcc783a4fe44ccaafaa29e81d339d39edeacd6388196d6e32c82a296e"
+  },
+  {
+    "path": "project_knowledge/docs/history/2026-10-19/PROJECT-HANDOFF.md",
+    "bytes": 5117,
+    "sha256": "61caff7fee9a0c4ae4037edf1f7b6b0fcca8af01fea510f74079b13695d2f96f"
+  },
+  {
+    "path": "project_knowledge/docs/history/2026-10-19/README.md",
+    "bytes": 3412,
+    "sha256": "118186f46101ee9700d3d666ef5fa1e4997397ff1b37b4a0b05291f1f6d338ac"
+  },
+  {
+    "path": "project_knowledge/docs/history/2026-10-19/START-HERE.md",
+    "bytes": 11477,
+    "sha256": "6e238e8830b7064a1259193f3ee262c27ad596ea8f8969e0f2e24350fa974e3e"
+  },
+  {
+    "path": "project_knowledge/knowledge/csv_catalog/README.md",
+    "bytes": 699,
+    "sha256": "9c102845bb4bef712b7cc799a0ba343fe4e90f17c71490a468002c1e8f0b696b"
+  },
+  {
+    "path": "project_knowledge/knowledge/csv_catalog/cost_candidate_classified_review_flags.md",
+    "bytes": 1409,
+    "sha256": "023ff16fd031cc3ada2c33e765986a2cfc29dc65423679de42d20a29ffd2898a"
+  },
+  {
+    "path": "project_knowledge/knowledge/csv_catalog/cost_candidate_construction_rate_candidates_review_required.md",
+    "bytes": 1684,
+    "sha256": "e32d93ff3da8c0f7ff4a16b9f1d92570845f26b6ba6e33222b45e5c1ad48a795"
+  },
+  {
+    "path": "project_knowledge/knowledge/csv_catalog/cost_candidate_extraction_flags.md",
+    "bytes": 1327,
+    "sha256": "bec0cdd1438d63b294b5a39f2a0755944a6b766b3632040f58dee5f7778ea2fc"
+  },
+  {
+    "path": "project_knowledge/knowledge/csv_catalog/manifest.json",
+    "bytes": 2213,
+    "sha256": "3cc476d6ec9a3e6280a71a47f2f4c03789ef05d28b0c4c559547108b50eeacd2"
+  },
+  {
+    "path": "project_knowledge/knowledge/datasets/01_weather/DATA_QUALITY_REPORT.md",
+    "bytes": 1550,
+    "sha256": "d9c1d4d00ec4607c48335fcb06f9660f90e57c153ba4dcaa99b22445584240de"
+  },
+  {
+    "path": "project_knowledge/knowledge/datasets/01_weather/README.md",
+    "bytes": 1643,
+    "sha256": "02aaee18865f7c64ab4908ed96380b17d737f8051d0a0fc6c55f5cc606983771"
+  },
+  {
+    "path": "project_knowledge/knowledge/datasets/01_weather/metadata.json",
+    "bytes": 757,
+    "sha256": "8b51a46c744b7590545e39149be3d5e245e489782ff2c09ac74bfbd0364cbfdc"
+  },
+  {
+    "path": "project_knowledge/knowledge/datasets/02_construction_cost/README.md",
+    "bytes": 1359,
+    "sha256": "02207d81ae8196d25f510454b0710504b6fc07d53e72dffa898a92dd28d5011e"
+  },
+  {
+    "path": "project_knowledge/knowledge/datasets/02_construction_cost/extraction_summary.json",
+    "bytes": 1357,
+    "sha256": "45c36b438fe726ab58d29aa9cfde921c3c9e8277c224de676efe65cb5b5615a7"
+  },
+  {
+    "path": "project_knowledge/knowledge/datasets/03_room_dimensions/README.md",
+    "bytes": 412,
+    "sha256": "4af2442cd73c1f0cb2f73676d1c9195fee058dc93c55c9639b7f79ea31ba1e45"
+  },
+  {
+    "path": "project_knowledge/knowledge/datasets/04_room_adjacency/README.md",
+    "bytes": 410,
+    "sha256": "2a8cf0179552f7df68f5c39a1da5ea09dbcb4a2ceb5980f6ba3d358cb67bf75f"
+  },
+  {
+    "path": "project_knowledge/knowledge/datasets/05_building_regulations/README.md",
+    "bytes": 46,
+    "sha256": "bc60c269a8cfbbc0eb924bc66e12def54a754488ee424befbc1ed1b087159e45"
+  },
+  {
+    "path": "project_knowledge/knowledge/datasets/06_furniture_openings/README.md",
+    "bytes": 410,
+    "sha256": "d09331c5e0db96d881d77af8731735b9f7ee87686829313e9ddd8632ec92a548"
+  },
+  {
+    "path": "project_knowledge/knowledge/datasets/07_architecture_styles/README.md",
+    "bytes": 410,
+    "sha256": "68796ed2552a107909d913ce3057a11a508232fd2299018436414a868848ea1c"
+  },
+  {
+    "path": "project_knowledge/knowledge/handoff/DATASET_STATUS.md",
+    "bytes": 1862,
+    "sha256": "455c4bdd02ec1c1f4955f8a978cadf20d1d206cfc13915422925c1aeacf99fc7"
+  },
+  {
+    "path": "project_knowledge/knowledge/handoff/DUPLICATES.json",
+    "bytes": 406,
+    "sha256": "a93e9d9bf03a0ad1355aac8aca1aa0b462354b3c7f5ca209230c4abec3961a0b"
+  },
+  {
+    "path": "project_knowledge/knowledge/handoff/GITHUB_UPLOAD_GUIDE.md",
+    "bytes": 1277,
+    "sha256": "2671a7e21001037f09d84d5ba0dfecd198c463b814bb956800cacd88f9d8110d"
+  },
+  {
+    "path": "project_knowledge/knowledge/handoff/README.md",
+    "bytes": 868,
+    "sha256": "0cfde8a6124b2027617395b1e3d7b207366c3f9301d7a5f824acd1f9f1e854a3"
+  },
+  {
+    "path": "project_knowledge/knowledge/handoff/SOURCE_INVENTORY.csv",
+    "bytes": 67387,
+    "sha256": "31a1189e8104ac76f9c425c2a39ccfdcbdcb36409cb5733063cd161de49a0dd8"
+  },
+  {
+    "path": "project_knowledge/knowledge/handoff/START_HERE_FOR_NEXT_AI.md",
+    "bytes": 4425,
+    "sha256": "29179f91ee237cac9ff81e1825c018a8a712748af1f92481d98909fb1be3880b"
+  },
+  {
+    "path": "source_archives/BSR-2021-2022(1).zip",
+    "bytes": 71349467,
+    "sha256": "0c90b35267de987daade1d8d1be004ba3423544f5d10fdeabc9cb94a81915faa"
+  },
+  {
+    "path": "source_archives/BSR.zip",
+    "bytes": 22152502,
+    "sha256": "ac72b012b3207ca938a47167748d74d0648f6df0bf6531454e177c4d287ae72b"
+  },
+  {
+    "path": "source_archives/Build Mind Data Set - Niru.zip",
+    "bytes": 108710775,
+    "sha256": "f5c806d90323a9715d95b056ba39a0ade7b52f87c8b9082c6c743b27f13666b2"
+  },
+  {
+    "path": "source_archives/Const_BSR_2020_final-compressed.zip",
+    "bytes": 42923819,
+    "sha256": "5b70ce401282f41033976f3124e38713f3c2b591f6bc56ad4c92382c95501b1c"
+  },
+  {
+    "path": "source_archives/ResPlan(1).zip",
+    "bytes": 100106537,
+    "sha256": "f718de8865e51bbe93b49b584798e3c536ed6b4b8a5d32f01b56812f389aeb46"
+  },
+  {
+    "path": "sources/02_cost/BSR-2021_Construction.pdf",
+    "bytes": 1704243,
+    "sha256": "2ce7c910a48497357589ecbd75e4b8e696354f6ca819961dbeb247875411c799"
+  },
+  {
+    "path": "sources/02_cost/BSR-2023_Construction.pdf",
+    "bytes": 590130,
+    "sha256": "fd9429f8239d8ca974b934aa17f3b31593409a1246b6e8bca88a808c0060e008"
+  },
+  {
+    "path": "sources/02_cost/BSR.pdf",
+    "bytes": 1694154,
+    "sha256": "5fb2ba14aee289bd6a3c69b5fe4c50281bbdc8531fc5557443170209817d626d"
+  },
+  {
+    "path": "sources/02_cost/BSR_2024_cons.pdf",
+    "bytes": 3346427,
+    "sha256": "f09cc6b3a412a9ca7f8855b17357eed8a6bb89876ece4f4aac8f3b87d2454f77"
+  },
+  {
+    "path": "sources/02_cost/Const_BSR_2020_final-compressed.pdf",
+    "bytes": 1241259,
+    "sha256": "04ea95d49f9df6151fcfc3baa64e31c30cbcbd38cfe50cbfd218438821d82d9b"
+  },
+  {
+    "path": "sources/02_cost/SoR 2026 - Buildings.pdf",
+    "bytes": 4969230,
+    "sha256": "e607a91e69a5536f08390cdd13d59644097e1a72972cf208f48a34469e2ec677"
+  },
+  {
+    "path": "sources/02_cost/SoR 2026.pdf",
+    "bytes": 866376,
+    "sha256": "2ba2646b665549450c764839af25a49589ad1c4bf66d2f3324a8b74e242315f1"
+  }
+]
