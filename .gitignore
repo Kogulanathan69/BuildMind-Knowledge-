@@ -8,3 +8,23 @@ BuildMind-Data/BSR-2021-2022(1).zip
 BuildMind-Data/ResPlan(1).zip
 BuildMind-Data/Const_BSR_2020_final-compressed.zip
 BuildMind-Data/BuildMind-Data/source_archives/*.zip
+
+# Public-repo cleanup: third-party or unverified-rights sources
+/recovered-data/*
+!/recovered-data/README.md
+
+/BuildMind-Data/BSR.zip
+/BuildMind-Data/BuildMind-Data/sources/
+
+/BuildMind-Data/BuildMind-Data/datasets/01_weather/original/
+/BuildMind-Data/BuildMind-Data/datasets/01_weather/monthly_raw/
+/BuildMind-Data/BuildMind-Data/datasets/01_weather/weather_siyambalanduwa_2021_combined_raw.csv
+
+/BuildMind-Data/BuildMind-Data/datasets/06_components/original_handover/
+
+/BuildMind-Data/BuildMind-Data/datasets/07_templates/resplan_support/
+
+/BuildMind-Data/BuildMind-Data/datasets/00_legacy_combined/BuildMind_AI_Dataset_v1 (1).xlsx
+/BuildMind-Data/BuildMind-Data/datasets/00_legacy_combined/BuildMind_AI_Dataset_v1 (1)(1).xlsx
+
+*.pkl
