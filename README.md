@@ -1,252 +1,33 @@
-\# BuildMind Knowledge Repository
+# BuildMind Knowledge Repository
 
+BuildMind is an AI assisted residential concept planning system for Sri Lanka. This repository preserves research, source inventories, decisions, proposed architecture, prototype status and the submission BRD.
 
+Updated **25 October 2026**. Start with [START-HERE.md](START-HERE.md), [current status](CURRENT-STATUS.md) and [topic coverage](docs/discussion-record/TOPIC-COVERAGE.md).
 
-BuildMind is an AI-powered residential house design and construction planning system.
+## Project knowledge
 
+- [Product scope and user journey](docs/discussion-record/PRODUCT-AND-SCOPE.md)
+- [Architecture and AI](docs/discussion-record/ARCHITECTURE-AND-AI.md)
+- [Datasets and evidence](docs/discussion-record/DATASETS-AND-EVIDENCE.md)
+- [Prototype and experiments](docs/discussion-record/PROTOTYPE-AND-EXPERIMENTS.md)
+- [Delivery and BRD](docs/discussion-record/DELIVERY-AND-BRD.md)
+- [Open work and evaluation](docs/discussion-record/OPEN-WORK-AND-EVALUATION.md)
+- [Decisions](PROJECT-DECISIONS.md) and [next steps](NEXT-STEPS.md)
 
+## Submission documents
 
-This repository stores the project's knowledge, research, decisions, datasets, source documents, architecture notes, prompts, current progress, and future handoff information.
+[PDF](docs/brd/BuildMind_Submission_BRD.pdf) · [editable Word](docs/brd/BuildMind_Submission_BRD.docx) · [searchable Markdown](docs/brd/BuildMind_Submission_BRD.md)
 
+Version 1.1 is the proposed academic submission baseline, not a record of completed engineering acceptance or signatures.
 
+## Source inventories
 
-\## Main Goals
+Existing research is preserved under [knowledge](knowledge/). See [source inventory](knowledge/handoff/SOURCE_INVENTORY.csv), [qualitative dataset status](knowledge/handoff/DATASET_STATUS.md), [weather QA](knowledge/datasets/01_weather/DATA_QUALITY_REPORT.md) and [CSV catalogue](knowledge/csv_catalog/README.md).
 
+The October 19 root documents are retained in [history](docs/history/2026-10-19/). Their cost-focused priorities are historical; later scope policies below take precedence.
 
+## Boundaries
 
-BuildMind aims to help users:
+Sri Lankan statutory rules only. Global component dimensions are allowed. Current Sri Lankan furniture stock/product pricing is future scope. RAG provides evidence; deterministic engines generate/check geometry and quantities. No claim of building permission, structural certification or measured 99% accuracy.
 
-
-
-\- Enter land dimensions and house requirements
-
-\- Generate residential floor plan alternatives
-
-\- Apply room dimension and adjacency rules
-
-\- Consider orientation, climate, lighting, ventilation, and user preferences
-
-\- Generate 2D floor plans
-
-\- Convert plans to 3D visualization
-
-\- Estimate construction cost
-
-\- Compare multiple design options
-
-\- Interact with an AI assistant
-
-\- Export project results and reports
-
-
-
-\## Main System Roles
-
-
-
-\### User
-
-The user provides:
-
-\- Land dimensions
-
-\- Location
-
-\- Number of rooms
-
-\- Budget
-
-\- Preferences
-
-\- Orientation
-
-\- Parking requirements
-
-\- Design style
-
-
-
-The user can:
-
-\- Generate plans
-
-\- Compare options
-
-\- Edit or request changes
-
-\- View cost estimates
-
-\- View 2D and 3D outputs
-
-\- Save and export projects
-
-
-
-\### Admin
-
-The admin manages:
-
-\- Users
-
-\- Projects
-
-\- Room standards
-
-\- Building rules
-
-\- Construction prices
-
-\- Labour rates
-
-\- Dataset versions
-
-\- Architecture templates
-
-\- Cost estimation data
-
-\- AI configuration
-
-\- System monitoring
-
-
-
-\### AI
-
-The AI is responsible for:
-
-\- Understanding user requirements
-
-\- Converting natural language into structured data
-
-\- Detecting missing information
-
-\- Generating plan alternatives
-
-\- Applying planning rules
-
-\- Explaining design choices
-
-\- Calling deterministic calculation modules
-
-\- Assisting with cost estimation
-
-
-
-The AI must not guess engineering quantities or claim professional certification.
-
-
-
-\## Team Dataset Areas
-
-
-
-1\. Weather / Climate Dataset
-
-2\. Construction Cost Dataset
-
-3\. Room Dimensions / Space Standards
-
-4\. Room Adjacency
-
-5\. Building Rules / Regulations
-
-6\. Door, Window and Furniture Dimensions
-
-7\. Architecture Styles / Plan Templates
-
-
-
-\## Current Technology Direction
-
-
-
-\- Frontend: Angular
-
-\- 2D Plan: Konva.js / SVG / Canvas
-
-\- 3D Visualization: Three.js
-
-\- Backend: Python FastAPI
-
-\- Database: PostgreSQL
-
-\- AI: LLM + structured rule engine
-
-\- Optimization: Constraint-based layout generation
-
-\- Optional later tools: Blender / MCP
-
-
-
-\## Cost Estimation Architecture
-
-
-
-House Geometry
-
-→ Measurement Engine
-
-→ Work Item / BOQ Engine
-
-→ Rate Analysis Dataset
-
-→ Material + Labour + Equipment Quantities
-
-→ Current Price Database
-
-→ Location / Wastage / Transport Adjustments
-
-→ Overhead + Profit + VAT
-
-→ Final LKR Estimate
-
-
-
-\## Important Sri Lankan Sources
-
-
-
-The project uses and researches sources such as:
-
-
-
-\- Northern Province Schedule of Rates
-
-\- Department of Buildings BSR
-
-\- CIDA / ICTAD specifications
-
-\- Department of Census and Statistics price bulletins
-
-\- Provincial labour and material rate schedules
-
-\- Civil engineering calculation references
-
-
-
-\## Repository Purpose
-
-
-
-This repository is the central handoff point for BuildMind.
-
-
-
-Any future developer, team member, or ChatGPT session should first read:
-
-
-
-1\. START-HERE.md
-
-2\. PROJECT-HANDOFF.md
-
-3\. CURRENT-STATUS.md
-
-4\. PROJECT-DECISIONS.md
-
-5\. NEXT-STEPS.md
-
-
-
-Do not redesign finalized project decisions without reviewing PROJECT-DECISIONS.md.
-
+The discussion record covers all identifiable BuildMind topics available to this update; it is not a verbatim chat export or a claim that missing attachments were inspected. Do not upload API keys, private account details or third-party datasets without checking rights.

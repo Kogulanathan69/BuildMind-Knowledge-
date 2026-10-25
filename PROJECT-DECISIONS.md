@@ -1,3 +1,33 @@
+# BuildMind project decisions
+
+Updated 25 October 2026.
+
+## Later decisions and precedence
+
+This section takes precedence over conflicting October 19 wording below. Original decisions remain preserved; no old cost research is deleted.
+
+| ID | Decision or clarification | State |
+| --- | --- | --- |
+| DECISION-033 | Sri Lankan sources only for statutory rules; exclude ICC IRC and other foreign codes from regulatory research | User policy |
+| DECISION-034 | Global furniture/door/fixture dimensions allowed; current Sri Lankan product stock/prices are future scope | User policy; narrows product-pricing scope, not construction rates |
+| DECISION-035 | User takes Member 3 room-dimension research/dataset work, not immediate automatic-plan implementation | User task choice |
+| DECISION-036 | Manual and conversational 2D edits plus linked parametric 3D edits and smart furnishing are required product behaviour | User product intent |
+| DECISION-037 | Preserve shared geometry, revalidate edits, distinguish timeout from model infeasibility | Architecture requirement |
+| DECISION-038 | Add layout generator/solver and scoring to the original ten-engine list | Architecture correction |
+| DECISION-039 | Eight collections include climate rules, templates and deliberately invalid test plans | Data design |
+| DECISION-040 | One-storey rectangular bounded MVP and pgvector stack in submission BRD | Proposed baseline; scope/stack confirmation still needed |
+| DECISION-041 | No overall data-completion/engineering-accuracy percentage without an audited measure | Reporting rule |
+| DECISION-042 | All nine user plan images remain distinct; Plans 5 and 8 manually confirmed different | User verification |
+| DECISION-043 | Professional reference-oriented UI; green playful dashboard rejected | User design preference |
+| DECISION-044 | Submission BRD v1.1 records planned scope, pending approvals and explicit implementation limitations | Document baseline |
+| DECISION-045 | Cost-only “current priority” in old DECISION-032 is historical; current work spans the integrated product | Supersedes current-priority wording, retains cost work |
+
+See docs/discussion-record for reasons, limits and open questions. Naming a role is not recording a person’s acceptance or professional signoff.
+
+## Historical October 19 decision register
+
+The following text is retained as historical context. Apply the later scope clarifications above where relevant.
+
 \# BuildMind - Project Decisions
 
 

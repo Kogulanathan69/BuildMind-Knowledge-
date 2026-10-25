@@ -1,3 +1,5 @@
+> Updated handoff available: read [current project status](../../CURRENT-STATUS.md) and [25 October discussion record](../../docs/discussion-record/README.md). Older research notes below are retained; do not infer implementation or dataset completeness.
+
 # Dataset readiness (qualitative, not audited percentages)
 | Owner | Topic | Already collected | Outstanding tasks |
 |---|---|---|---|

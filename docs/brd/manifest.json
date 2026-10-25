@@ -1,0 +1,21 @@
+{
+  "recorded_on": "2026-10-25",
+  "brd_version": "1.1",
+  "files": [
+    {
+      "path": "docs/brd/BuildMind_Submission_BRD.docx",
+      "size_bytes": 69383,
+      "sha256": "bd85a903c199aa5f265b1b488bf13a3aa3d4136eb6cc4877379181f84d0c6a3b"
+    },
+    {
+      "path": "docs/brd/BuildMind_Submission_BRD.md",
+      "size_bytes": 49420,
+      "sha256": "9c8f9c9a035b265fc478ee4bd43ad39a20747ae2019ac90b0adcdfdf45db145e"
+    },
+    {
+      "path": "docs/brd/BuildMind_Submission_BRD.pdf",
+      "size_bytes": 545510,
+      "sha256": "26d470da41bb602ffa09c2baa00c7777913250ca093f0c7f5f8be7e5708fb326"
+    }
+  ]
+}
