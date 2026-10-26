@@ -1,0 +1,5 @@
+labour_id,category,unit,hours_per_day,region,year,basic_rate_lkr,source_document,source_page,verification_status,notes
+LAB-001,Skilled Grade I,Day,8,Northern Province - Jaffna,2026,3800.00,SoR 2026 - Buildings,16,SOURCE_VERIFIED,"Basic labour rate adopted"
+LAB-002,Skilled Grade II,Day,8,Northern Province - Jaffna,2026,3400.00,SoR 2026 - Buildings,16,SOURCE_VERIFIED,"Basic labour rate adopted"
+LAB-003,Semi-Skilled,Day,8,Northern Province - Jaffna,2026,3200.00,SoR 2026 - Buildings,16,SOURCE_VERIFIED,"Basic labour rate adopted"
+LAB-004,Unskilled,Day,8,Northern Province - Jaffna,2026,3000.00,SoR 2026 - Buildings,16,SOURCE_VERIFIED,"Basic labour rate adopted"

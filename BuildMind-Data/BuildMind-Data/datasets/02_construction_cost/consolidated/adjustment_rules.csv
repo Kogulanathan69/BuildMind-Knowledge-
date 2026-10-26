@@ -1,0 +1,6 @@
+rule_id,rule_name,rule_type,value,unit,applies_to,region,year,source_document,source_page,verification_status,notes
+ADJ-001,Profit,percentage,10,percent,All scheduled work rates,Northern Province,2026,SoR 2026 - Buildings,14,SOURCE_VERIFIED,"Profit factor generally 10 percent"
+ADJ-002,General Overhead,percentage,6,percent,All scheduled work rates,Northern Province,2026,SoR 2026 - Buildings,14,SOURCE_VERIFIED,"General overhead for Provincial Departments"
+ADJ-003,General Overhead and Profit,percentage,16,percent,All scheduled work rates,Northern Province,2026,SoR 2026 - Buildings,14,SOURCE_VERIFIED,"Combined OH and Profit"
+ADJ-004,VAT,separate_tax,,percent,Applicable works/materials,Northern Province,2026,SoR 2026 - Buildings,14,SOURCE_VERIFIED,"Rates include taxes other than VAT; VAT paid separately"
+ADJ-005,Transport Loading Unloading Wastage,included_in_rate,1,boolean,All scheduled work rates,Northern Province,2026,SoR 2026 - Buildings,14,SOURCE_VERIFIED,"Loading unloading material wastage and transport are already included in rates"
