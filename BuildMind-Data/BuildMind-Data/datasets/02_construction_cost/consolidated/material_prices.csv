@@ -1,1 +1,11 @@
 material_id,material_name,specification,unit,region,year,unit_price_lkr,source_document,source_page,verification_status,notes
+
+MAT-001,Floor Tile,"400mm x 400mm MATT floor tile, Rocell or equivalent",No,Northern Province - Jaffna,2024,599.00,BSR_2024_cons.pdf,105,SOURCE_VERIFIED,"Prime cost stated in source"
+MAT-002,Floor Tile,"600mm x 300mm MATT floor tile, Rocell or equivalent",No,Northern Province - Jaffna,2024,875.00,BSR_2024_cons.pdf,106,SOURCE_VERIFIED,"Prime cost stated in source"
+MAT-003,Floor Tile,"600mm x 600mm MATT floor tile, Rocell or equivalent",No,Northern Province - Jaffna,2024,2023.00,BSR_2024_cons.pdf,106,SOURCE_VERIFIED,"Prime cost stated in source"
+
+
+MAT-CEMENT,Cement,"Cement used in concrete mixes",Bag,Northern Province - Jaffna,2026,,SoR 2026.pdf,105,RATE_PENDING,"Referenced by verified concrete resource norms; standalone material rate not yet verified"
+MAT-METAL,Metal/Aggregate,"Coarse aggregate used in concrete mixes",M3,Northern Province - Jaffna,2026,,SoR 2026.pdf,105,RATE_PENDING,"Referenced by verified concrete resource norms; standalone material rate not yet verified"
+MAT-SAND,Sand,"Fine aggregate used in concrete mixes",M3,Northern Province - Jaffna,2026,,SoR 2026.pdf,105,RATE_PENDING,"Referenced by verified concrete resource norms; standalone material rate not yet verified"
+MAT-WATER,Water,"Water used in concrete mixes",L,Northern Province - Jaffna,2026,,SoR 2026.pdf,105,RATE_PENDING,"Referenced by verified concrete resource norms; standalone material rate not yet verified"

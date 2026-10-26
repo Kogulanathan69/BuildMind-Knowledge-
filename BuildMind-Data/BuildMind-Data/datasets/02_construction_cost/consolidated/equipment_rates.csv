@@ -1,1 +1,4 @@
 equipment_id,equipment_name,specification,unit,region,year,rate_lkr,source_document,source_page,verification_status,notes
+
+EQ-MIXER,Concrete Mixer,"Mixer used for concrete production",Hr,Northern Province - Jaffna,2026,,SoR 2026.pdf,105,RATE_PENDING,"Resource norm verified; standalone equipment hourly rate not yet verified"
+EQ-VIBRATOR,Concrete Vibrator,"Vibrator used for concrete placement",Hr,Northern Province - Jaffna,2026,,SoR 2026.pdf,105,RATE_PENDING,"Resource norm verified; standalone equipment hourly rate not yet verified"

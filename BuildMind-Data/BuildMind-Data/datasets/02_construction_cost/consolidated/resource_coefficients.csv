@@ -1,1 +1,29 @@
-coefficient_id,work_item_id,resource_type,resource_id,resource_name,quantity_per_work_unit,resource_unit,work_unit,source_document,source_page,verification_status,notes
+coefficient_id,work_item_id,resource_type,resource_id,resource_name,quantity_per_work_unit,resource_unit,work_unit,source_document,source_page,verification_status,applicability_status,notes
+
+
+RC-001,WI-006,Material,MAT-CEMENT,Cement,4.54,Bag,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:3:6 norm"
+RC-002,WI-006,Material,MAT-METAL,Metal/Aggregate,0.92,M3,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:3:6 norm"
+RC-003,WI-006,Material,MAT-SAND,Sand,0.46,M3,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:3:6 norm"
+RC-004,WI-006,Material,MAT-WATER,Water,158.90,L,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:3:6 norm"
+RC-005,WI-006,Labour,LAB-002,Skilled Grade II,0.35,Day,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:3:6 norm"
+RC-006,WI-006,Labour,LAB-004,Unskilled,1.06,Day,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:3:6 norm"
+RC-007,WI-006,Equipment,EQ-MIXER,Concrete Mixer,0.71,Hr,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:3:6 norm"
+RC-008,WI-006,Equipment,EQ-VIBRATOR,Concrete Vibrator,0.35,Hr,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:3:6 norm"
+
+RC-009,WI-007,Material,MAT-CEMENT,Cement,6.40,Bag,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:2:4 norm"
+RC-010,WI-007,Material,MAT-METAL,Metal/Aggregate,0.88,M3,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:2:4 norm"
+RC-011,WI-007,Material,MAT-SAND,Sand,0.44,M3,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:2:4 norm"
+RC-012,WI-007,Material,MAT-WATER,Water,160.00,L,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:2:4 norm"
+RC-013,WI-007,Labour,LAB-002,Skilled Grade II,0.35,Day,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:2:4 norm"
+RC-014,WI-007,Labour,LAB-004,Unskilled,1.06,Day,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:2:4 norm"
+RC-015,WI-007,Equipment,EQ-MIXER,Concrete Mixer,0.71,Hr,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:2:4 norm"
+RC-016,WI-007,Equipment,EQ-VIBRATOR,Concrete Vibrator,0.35,Hr,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:2:4 norm"
+
+RC-017,WI-008,Material,MAT-CEMENT,Cement,8.10,Bag,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:1.5:3 norm"
+RC-018,WI-008,Material,MAT-METAL,Metal/Aggregate,0.82,M3,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:1.5:3 norm"
+RC-019,WI-008,Material,MAT-SAND,Sand,0.41,M3,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:1.5:3 norm"
+RC-020,WI-008,Material,MAT-WATER,Water,182.25,L,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:1.5:3 norm"
+RC-021,WI-008,Labour,LAB-002,Skilled Grade II,0.35,Day,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:1.5:3 norm"
+RC-022,WI-008,Labour,LAB-004,Unskilled,1.06,Day,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:1.5:3 norm"
+RC-023,WI-008,Equipment,EQ-MIXER,Concrete Mixer,0.71,Hr,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:1.5:3 norm"
+RC-024,WI-008,Equipment,EQ-VIBRATOR,Concrete Vibrator,0.35,Hr,M3,SoR 2026.pdf,105,SOURCE_VERIFIED,APPLICABILITY_PENDING,"Concrete 1:1.5:3 norm"
